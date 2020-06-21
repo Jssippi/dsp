@@ -1,0 +1,4505 @@
+[33mcommit 96741ac1931eb54ec471e9ed2953897fc418becc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Sat Jun 13 16:50:45 2020 -0400
+
+    Finished with linear alebra module.
+
+[33mcommit 817971ddbda49cdf853106bab1dab08ad68faa52[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Fri Jun 5 08:16:03 2020 -0400
+
+    Finished the pandas assessment, now still tinkering a bit to understand what else I could have done more.
+
+[33mcommit e958015dedd4f6609b1e353f6552dc885da8a68b[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Mon Jun 1 21:02:48 2020 -0400
+
+    Stuck on test case 6 and 12 for Pandas Intro assessment. Test case 6 has to do with number of data types, besides that I'm stuck.
+
+[33mcommit d373944716e5100a6863f60c63ae7c7bfd9c56f8[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Sat May 30 12:41:42 2020 -0400
+
+    Finished doing exercises on Pandas. Still trying to fully understand the last demo.
+
+[33mcommit 5bafc81cb33367e4bc0bd6f1a2ef9e0c337e2a51[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Fri May 29 20:01:27 2020 -0400
+
+    Got through Part 3 of the Pandas Intro. Felt like I started actually figuring out some of the syntactic rules.
+
+[33mcommit 806e797ac1ceabafecfe578e65d609af5ac3c896[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Wed May 27 12:50:11 2020 -0400
+
+    Struggling with the pandas exercises. Hit a massive wall when I got to 'Part 2: Combining Techniques'. I'm trying to understand the syntactic decisions being made and the documentation is not helping as much as I would hope.
+
+[33mcommit f2b00a6e33298f1f34ae3fd072ef465cdc191cb9[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Tue May 26 11:21:41 2020 -0400
+
+    Finished with the Python Advanced module.
+
+[33mcommit 64686c47f5cf6273dd6db8eb386b4c6d9c4f6244[m
+Author: Harry John Shephard <33206503+Jssippi@users.noreply.github.com>
+Date:   Fri May 22 11:03:17 2020 -0400
+
+    finished up to the intro to python section, though unclear on what the 'questions' was
+
+[33mcommit 150f72c72c229e53d612f36ec828bd3a615b3116[m
+Merge: 11b5dd0 7c5283a
+Author: Jssippi <33206503+Jssippi@users.noreply.github.com>
+Date:   Tue May 19 12:04:11 2020 -0400
+
+    Merge pull request #1 from Jssippi/Learn_Branch
+    
+    added a test file by Jssippi
+
+[33mcommit 7c5283af9b465051212c9ac14a52347320044893[m[33m ([m[1;31morigin/Learn_Branch[m[33m, [m[1;32mLearn_Branch[m[33m)[m
+Author: Jssippi <33206503+Jssippi@users.noreply.github.com>
+Date:   Tue May 19 11:12:00 2020 -0400
+
+    added a test file by Jssippi
+
+[33mcommit 11b5dd034a89441da280d5a0ab6ea080f38f509d[m
+Author: Jssippi <33206503+Jssippi@users.noreply.github.com>
+Date:   Fri May 15 09:46:58 2020 -0400
+
+    Answering Install Questions
+
+[33mcommit 886111b7e5bf8ebcd2fb8f51abfa88450586070e[m
+Author: Jssippi <33206503+Jssippi@users.noreply.github.com>
+Date:   Fri May 15 08:32:05 2020 -0400
+
+    Including Cheeky Emoji for Assignment 1.5
+
+[33mcommit 9e1a709b2e0bf989a185bd41ffe13b7f0506a625[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Thu May 7 09:11:42 2020 -0700
+
+    Update readme.md
+
+[33mcommit fbbf3a8e18971bcc742fc9a34b3fd60c7a5dfa27[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Thu May 7 09:10:56 2020 -0700
+
+    Add files via upload
+
+[33mcommit c988393048de642d9352d04870a37ef04757e567[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Thu May 7 09:10:44 2020 -0700
+
+    Create keep
+
+[33mcommit 16b62b6ec7e18db9306b9412557d4babe80717e7[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Thu May 7 08:55:10 2020 -0700
+
+    Update readme.md
+
+[33mcommit 87b9d3224f2605778a5d9753c8ccb73c04d9d8bb[m
+Merge: caf7d2c f6054e1
+Author: RobertoReif <robertoreif@gmail.com>
+Date:   Mon Apr 13 13:51:13 2020 -0700
+
+    Merge pull request #172 from kimfetti/adv_python_complexity_kim
+    
+    Adv python complexity kim
+
+[33mcommit f6054e12bd12df2481b3f2bb9d59cc8a56684647[m
+Author: Kim <kimfetti@users.noreply.github.com>
+Date:   Thu Apr 9 12:53:04 2020 -0400
+
+    Update complexity.md
+
+[33mcommit b285ec1dfaedc7b3308ff6d18c75cf485b90e1fc[m
+Author: kimfetti <kimfetti@gmail.com>
+Date:   Thu Apr 9 12:51:46 2020 -0400
+
+    Add complexity to Adv Python lesson
+
+[33mcommit caf7d2c32c5a2f18097c8014d97f83764c7fc32f[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Thu Feb 20 09:13:36 2020 -0800
+
+    Update readme.md
+
+[33mcommit 723745c5797de474be694de6ed3e23f1d8d53f82[m
+Merge: c57ae3a f2110f2
+Author: aramnath <amy@thisismetis.com>
+Date:   Fri Jan 17 06:29:12 2020 -0500
+
+    Merge pull request #149 from vaughnparker/master
+    
+    Deleting empty files and broken links
+
+[33mcommit f2110f2007d2898cefca16d2a44b35cdc8dec448[m
+Merge: f7b8e17 365c1e6
+Author: vaughnparker <vaughnjparker@gmail.com>
+Date:   Sat Dec 14 15:45:44 2019 -0600
+
+    Merge pull request #2 from vaughnparker/patch-2
+    
+    Update readme.md
+
+[33mcommit f7b8e17623ad4d2d19be7ca65127ce7ce8154705[m
+Merge: 8311f53 0be463e
+Author: vaughnparker <vaughnjparker@gmail.com>
+Date:   Sat Dec 14 15:45:05 2019 -0600
+
+    Merge pull request #1 from vaughnparker/patch-1
+    
+    Patch 1
+
+[33mcommit 365c1e6d9dd4d1f47958fac707120777cf7fe21f[m
+Author: vaughnparker <vaughnjparker@gmail.com>
+Date:   Sat Dec 14 15:40:29 2019 -0600
+
+    Update readme.md
+    
+    Removing broken link
+
+[33mcommit 0be463e4092f3198f47adef2f631ceece2f295b8[m
+Author: vaughnparker <vaughnjparker@gmail.com>
+Date:   Sat Dec 14 15:38:08 2019 -0600
+
+    Delete instructor_guide_week1_day1.md
+    
+    Deleting empty file
+
+[33mcommit c57ae3a4dbf6724faa627d525b6b0b553ac38489[m
+Author: RobertoReif <robertoreif@gmail.com>
+Date:   Tue Sep 3 20:33:50 2019 -0700
+
+    Changed from 4 to 8Gb
+
+[33mcommit ce673af3d2a57c1bb7ab5efa64111330fa4e2860[m
+Merge: 1b6f1e6 8311f53
+Author: Alex Bannon <alexbannon@gmail.com>
+Date:   Wed May 15 18:15:33 2019 -0400
+
+    Merge pull request #100 from vaughnparker/master
+    
+    Fixed broken links and images
+
+[33mcommit 8311f53f738d93be4db2d44ffd8a73e9515180e2[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:29:45 2019 -0400
+
+    removing .DS_Store files
+
+[33mcommit 57cf4c6351f0676c0d20f9df47fa398a8bccf7cc[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:23:59 2019 -0400
+
+    fixing stats links final
+
+[33mcommit 39a9096e5fcc13f24cb84e4e2771fae56107f85a[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:23:02 2019 -0400
+
+    fixing stats links 3
+
+[33mcommit ab4dca85d8286f80dccaca0aae82365dd9ecf93e[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:21:18 2019 -0400
+
+    fixing stats links 2
+
+[33mcommit 86c68d62ecfb32236a496090a0cf0efdaececb52[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:20:35 2019 -0400
+
+    fixing stats links 1
+
+[33mcommit 349c7ed246cade548a77ea19ff77dcc31d38b1da[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:10:05 2019 -0400
+
+    fixing windows sublink
+
+[33mcommit c30fd6161bda2fa98e08af46bf9d2629bf34aaca[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:09:30 2019 -0400
+
+    fixing windows sublink
+
+[33mcommit d9b496128f3d1a6a02c5bb826c460c305fe79354[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 17:07:45 2019 -0400
+
+    fixing more links
+
+[33mcommit 45a8c81f6f968c1883ae70fe861a3a78846238fb[m
+Author: VJ Parker <vaughn@VJs-MacBook-Air.local>
+Date:   Wed May 15 16:26:15 2019 -0400
+
+    fixing the links on /lessons/git_fork
+
+[33mcommit 1b6f1e60afae052d454d3f1a074c87ae01182dc9[m
+Author: Sophie Searcy <s@soph.info>
+Date:   Mon Apr 15 13:24:31 2019 -0400
+
+    Update README.md
+
+[33mcommit bb6567122203a7d87f8b488e1aa17c78ada6b4e7[m
+Merge: a084f92 9d846c4
+Author: aramnath <amy@thisismetis.com>
+Date:   Thu Mar 21 09:17:17 2019 -0400
+
+    Merge pull request #97 from druce/master
+    
+    Should probably tell people they should do the pre-work in Jupyter lo…
+
+[33mcommit 9d846c49f1dc48fc2a35717c9f0928019a0434ef[m
+Author: druce <drucev@gmail.com>
+Date:   Thu Mar 21 08:32:26 2019 -0400
+
+    x
+
+[33mcommit 70d5c71fd587bd9bd6a8aaf35ef7e955fe066a0f[m
+Merge: b6b2497 a084f92
+Author: druce <drucev@gmail.com>
+Date:   Thu Mar 21 08:28:20 2019 -0400
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit b6b2497e3451e8b4cc56b138b144317d6c71993c[m
+Author: druce <drucev@gmail.com>
+Date:   Sun Mar 17 10:27:23 2019 -0400
+
+    Should probably tell people they should do the pre-work in Jupyter locally, a couple people did not get that, were editing .ipynb in editor
+
+[33mcommit a084f92bf768324f773ef6eee9cef2c3158e0533[m
+Merge: 92c059b bb04cea
+Author: aramnath <amy@thisismetis.com>
+Date:   Wed Mar 13 14:21:32 2019 -0400
+
+    Merge pull request #95 from druce/master
+    
+    fix pdf link (linear algebra in 4 pages)
+
+[33mcommit bb04cea883940b228d2e6aee7932720da9953e1f[m
+Author: druce <drucev@gmail.com>
+Date:   Tue Mar 12 22:49:40 2019 -0400
+
+    fix pdf link (linear algebra in 4 pages)
+
+[33mcommit 92c059b801ac12fce6e1a576a80bba0567c8c4f3[m
+Merge: 5e9ad52 442f71f
+Author: aramnath <amy@thisismetis.com>
+Date:   Tue Mar 12 16:14:56 2019 -0400
+
+    Merge pull request #94 from John-Tate/master
+    
+    Re added csvs
+
+[33mcommit 442f71f1de38b64d5286160490c9e9aa481d8682[m
+Author: John Tate <johntatesyr@gmail.com>
+Date:   Tue Mar 12 10:55:23 2019 -0500
+
+    csvs
+
+[33mcommit 5e9ad52d6b2bb0fbc730f879515fd73cf6fadbff[m
+Author: artificialsoph <s@soph.info>
+Date:   Wed Feb 20 23:40:44 2019 -0500
+
+    move revision
+
+[33mcommit 84c9c90d0a003082d70c1a2ee67e98844b317bb9[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Thu Nov 29 15:41:11 2018 -0500
+
+    Update 01a-install.md
+
+[33mcommit f8751c13bb9216be5cd0a1b6017002572a2d3d68[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Mar 5 20:38:01 2018 -0600
+
+    Update 01a-install.md
+
+[33mcommit 877130e66d2be366c837c429d6ae0194015b6064[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Thu Dec 21 04:20:41 2017 +0000
+
+    Update jupyter_notebook_1_install.md
+
+[33mcommit abd9fb169a907a16c69d8b884d3ee5d82c3e8c6a[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Tue Dec 19 12:04:35 2017 +0000
+
+    Add files via upload
+
+[33mcommit d13260311c8903a97e9d1501c8998c9a7d16971b[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Wed Dec 13 22:02:53 2017 +0000
+
+    Add files via upload
+
+[33mcommit 4b64e50dd7cdcc7930fbbdbf9925350963480566[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Wed Dec 13 22:00:17 2017 +0000
+
+    Add files via upload
+
+[33mcommit 1cacb5837e1d15adc767ad4c8a150384aacdbef4[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:58:43 2017 +0000
+
+    Update 02-editors.md
+    
+    Updated
+
+[33mcommit acc17ff2ae0c35c97b93f013cf30b74beebe10b6[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:58:24 2017 +0000
+
+    Delete README.md
+
+[33mcommit a9aa37d1591caca68d28cfefdb38b37446fcbcad[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:55:33 2017 +0000
+
+    Delete football.csv
+
+[33mcommit 1a17ecd07de6331111534e8ab46fd2d0525051bd[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:27:40 2017 +0000
+
+    Update 06-linear_algebra.md
+    
+    Updated
+
+[33mcommit 69f4d99cf5a025aeef0727c7d4415f33f27ce953[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:24:40 2017 +0000
+
+    Delete matrix_algebra.py
+
+[33mcommit 19402e5e0b2d137b40a4f492a845cd2e5f6a184f[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:24:34 2017 +0000
+
+    Delete matrix_algebra_worksheet.pdf
+
+[33mcommit 48075544e6fd504e5f3421cb62a45228b48406b8[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:23:32 2017 +0000
+
+    Update 05c-python_pandas.md
+    
+    Updated
+
+[33mcommit 807f76fd765c3cf2e6ac511b4cdb012b2f939715[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:16:41 2017 +0000
+
+    Delete olive.csv
+
+[33mcommit 229f3116cb89c249cc5022135cad5fa27e2f07e0[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:16:23 2017 +0000
+
+    Delete 2_pandas_olive_questions.ipynb
+
+[33mcommit 4c87338ab80affedfe5101d9d53f1a1614bceb0f[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:13:25 2017 +0000
+
+    Delete markov.py
+
+[33mcommit 2cb04c1cf9a0ab745b41bac8084e1660ed8b323c[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:13:14 2017 +0000
+
+    Delete advanced_python_dict.py
+
+[33mcommit d3c4413dafd765d64d7b253ae75e6e3a42c8bd92[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:13:06 2017 +0000
+
+    Delete advanced_python_csv.py
+
+[33mcommit 64e043feb625253dba364646d0248524101d9e5d[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:12:57 2017 +0000
+
+    Delete advanced_python_regex.py
+
+[33mcommit 8873c87807e889c68ac0e942f5296bc10f284a86[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:12:48 2017 +0000
+
+    Delete faculty.csv
+
+[33mcommit f2a7d0210f2044a46aa9e31ceb351b50d0c5ece2[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 14:12:24 2017 +0000
+
+    Update 05b-python_advanced.md
+    
+    Updated
+
+[33mcommit c05b550169ecdfea6a23eb6b2808f5ca4f88305c[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:29:53 2017 +0000
+
+    Update 05a-python.md
+    
+    Updated
+
+[33mcommit 8e68c0464338cdc6dd3ad4e60fe9fd8d1a6ca1e2[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:21:41 2017 +0000
+
+    Delete q8_parsing.py
+    
+    removed
+
+[33mcommit 2c49e5874ef44c7f8b24e9a55e15ff1e1993f458[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:21:26 2017 +0000
+
+    Delete q7_lists.py
+    
+    removed
+
+[33mcommit a014717c3c020d90b65b3712bf7b648949abc3b9[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:21:07 2017 +0000
+
+    Delete q6_strings.py
+    
+    removed
+
+[33mcommit 93eba7b128a3eabe9bb57dc9f338672cbf42092e[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:20:52 2017 +0000
+
+    Delete q5_datetime.py
+    
+    removed
+
+[33mcommit f4a6cd6876bb15cb0a69863972677de5f8f46f49[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 13:14:45 2017 +0000
+
+    Update 03-command_line.md
+    
+    Updated
+
+[33mcommit d2bb6fd3c4900f79e34dae7255c8ee678b0c1b30[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 12:53:02 2017 +0000
+
+    Update 02-editors.md
+    
+    Updated
+
+[33mcommit 189c0bff2a3ee98eff55e80458f1b5d519992ca7[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 12:45:20 2017 +0000
+
+    Update jupyter_notebook_2_use.md
+    
+    updated
+
+[33mcommit 08da7da95f9a5748930c96de57af3011482047f8[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Mon Dec 11 12:39:53 2017 +0000
+
+    Update jupyter_notebook_1_install.md
+    
+    Updated
+
+[33mcommit 4ee8ba4f57cc406a091e3bcb3b143cc00f7f77c4[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Thu Dec 7 12:39:58 2017 -0600
+
+    Update 01a-install.md
+    
+    Updates
+
+[33mcommit 2304ddfdb11c84b1a64e33d89c3b1f78730bd10c[m
+Author: Ibrahim Gabr <igabr@uchicago.edu>
+Date:   Thu Dec 7 12:21:11 2017 -0600
+
+    Update 00a-markdown.md
+    
+    Updated Markdown Document.
+
+[33mcommit 9f3e097c8055f285bf664864220cc93fe8cfadfd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 16:57:05 2017 -0400
+
+    Update README.md
+
+[33mcommit a61df464bdca5c91432ab1ec76c132589c5984d4[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 16:55:22 2017 -0400
+
+    Update README.md
+
+[33mcommit d95008cb381e0191494089039cfff93441040391[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 16:54:49 2017 -0400
+
+    Update README.md
+
+[33mcommit 0a4f109d3c07764c436ee13d53b7794253c1a127[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 10:53:49 2017 -0400
+
+    Update README.md
+
+[33mcommit fd582bfcdc2f53a2ebbcbf473f97b89c66eff69c[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 10:53:18 2017 -0400
+
+    Update README.md
+
+[33mcommit fe7c289d4600dca1923620c5e742679e70b6234c[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Jun 1 07:30:48 2017 -0400
+
+    Update README.md
+
+[33mcommit 6d4e6a6894c96587110af92202820be2697bb034[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed May 24 20:10:51 2017 -0400
+
+    use python 3 only (esp in HR)
+
+[33mcommit 11fec251c39b15e7ca2aee802c802a86be886b2b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 17:59:04 2017 -0400
+
+    Update 05b-python_advanced.md
+
+[33mcommit 04869806f36d7ff539b7a78451782c012d7dba3b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:48:01 2017 -0400
+
+    Update README.md
+
+[33mcommit 8484b0c91974571db44f3d968c5c2885eb27f7b1[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:47:38 2017 -0400
+
+    Add files via upload
+
+[33mcommit b832c1eb5d5d38a5ce95d034ab5f003cdeabccfc[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:45:38 2017 -0400
+
+    Update computer_requirements.md
+
+[33mcommit 58ff6e58dbe0a13871168c69624bbff5af98b0f5[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:45:13 2017 -0400
+
+    Add files via upload
+
+[33mcommit 9e85e60ba4f671a08b7f9bdc596e8dd0686debf0[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:44:54 2017 -0400
+
+    Update computer_requirements.md
+
+[33mcommit 7686d7c25b409b25eecbcc819d118f0124382b7f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:43:21 2017 -0400
+
+    Add files via upload
+
+[33mcommit c241e7f1d507061c5dd44ada67a9fcedcb2b1034[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:11:27 2017 -0400
+
+    Update README.md
+
+[33mcommit 07f043a983122a0a86cfc11611ac47864856a56b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:08:46 2017 -0400
+
+    Add files via upload
+
+[33mcommit 0c66a7c5c463238e920bdf3c159ebfa6d44b9ec6[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 12:04:47 2017 -0400
+
+    Update README.md
+
+[33mcommit 51777003ecdcbb1bcea8ec4478d8d18b5b2a0e11[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 11:59:38 2017 -0400
+
+    Update README.md
+
+[33mcommit 0295bf5172fde9dbc928fabc595e8c6db698ffa7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 11:56:36 2017 -0400
+
+    Update README.md
+
+[33mcommit bdf773bf0844d72f867cb7cd8b466e4f1145b997[m
+Merge: 319f476 5d82519
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue May 16 11:55:54 2017 -0400
+
+    Merge pull request #63 from reshama/master
+    
+    added overview to pre-work README
+
+[33mcommit 5d8251942b9662476329a189c9b043f22c366a54[m
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Tue May 16 11:54:16 2017 -0400
+
+    updating readme with overview
+
+[33mcommit 685e6beaaa1826c0fdfe645df1627f4b7f5a1937[m
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Tue May 16 11:52:44 2017 -0400
+
+    updating readme with overview
+
+[33mcommit 319f476b29ce0fea04923e69a363fcd61909c09d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu May 11 15:30:49 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit acdcbc2e7171ce4c3292cd2271610ad0278dafeb[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu May 11 15:30:20 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit c331828b31e728ea6b0766d887a7705db7a8ce40[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon May 1 09:43:15 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit 6be17587d5631c3b3e8aaaf941ce0f03d23f6339[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon May 1 09:42:45 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit fcd46e5d53793b4b85cdc99444d0ace517d144bd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon May 1 09:41:14 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit c860c805daa8907f492923da0e8c604b14ae44e3[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon May 1 09:41:04 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit 5b8c3dbd538627b555759a1969fb2a4e84e4d637[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon May 1 09:40:27 2017 -0400
+
+    update blogs: add Ana Gentle blog, reformat
+    
+    @aramnath @jasonamoss13 @emilyawilson
+
+[33mcommit 1e864459871a6b30f8acdccba56bfa2bc30bc3b7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Tue Apr 25 16:44:31 2017 -0400
+
+    say no to chromebooks, windows10 w/ubuntu
+    
+    @mlgill @aramnath @jasonmoss13 @debbiebere
+
+[33mcommit 489ed4336215a88a8214210a5a5f49a6f5d7fe1d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Apr 1 13:05:06 2017 -0400
+
+    Update 07-statistics.md
+
+[33mcommit 9a350ef7b425f30cafef0bbb3e767138f70459ab[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Mar 31 11:36:15 2017 -0400
+
+    adding:  skill to learn to use other people's code
+
+[33mcommit ac0e34638c643e55f679e9407b2bf95a339d5c79[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Mar 31 11:26:54 2017 -0400
+
+    Update 07-statistics.md
+
+[33mcommit 99a5cc9c8df909fb5d97bd2d88523bd38fe23d9b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Mar 31 11:25:08 2017 -0400
+
+    Update 07-statistics.md
+
+[33mcommit 96bcff19ef8a6abe874938cf98bc943d8b050b5d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Mar 29 21:10:08 2017 -0400
+
+    updating parsing question text (not 3 functions)
+
+[33mcommit 5c9a83c1d6f9c5e45c37e23e713cc5bb45db9cc4[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 20:03:40 2017 -0400
+
+    Update README.md
+
+[33mcommit 9170f603f05286918dc2cbc24788ee8cc2b3d8c0[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:59:38 2017 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit 808c5ee49ea074061e973032a966137b553d1415[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:58:37 2017 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit 0a9ee7e8e501f1bc56d4fa513b126315823358cf[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:57:14 2017 -0400
+
+    Update 07-statistics.md
+
+[33mcommit 40807611d6886cdcbce89ac6ef3f2803882e29b6[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:56:14 2017 -0400
+
+    Update 06-linear_algebra.md
+
+[33mcommit 69e7698dff0711e25d38b65f61d2a481ed81c9a6[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:52:43 2017 -0400
+
+    Update 04-git.md
+
+[33mcommit faadecd018e8663bb81121b69f3574c430c212dc[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:51:22 2017 -0400
+
+    Update 04-git.md
+
+[33mcommit e0a8f61cf201c55dda54201cb9c1c801830c500b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:49:04 2017 -0400
+
+    Update 04-git.md
+
+[33mcommit f53188edcaa73703bca2a46ece77a0728b5f9d50[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:47:56 2017 -0400
+
+    Update 04-git.md
+
+[33mcommit 18627effdc4d28cfbbcc42beea2ddd9c66c8e79f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:45:29 2017 -0400
+
+    Update jupyter_notebook_2_use.md
+
+[33mcommit af8b2bb8ae984a2ad0c74ac51f5f929c284b96b2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:44:09 2017 -0400
+
+    Update 01a-install.md
+
+[33mcommit d6a855e117d9da6c03bc1c3c9798b1e6a2450004[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:43:26 2017 -0400
+
+    Update 00b-fork_repo.md
+
+[33mcommit df35b46fc7c0035609f383521369b6e9d07900d4[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:36:41 2017 -0400
+
+    Update 00a-markdown.md
+
+[33mcommit 3e244183ef89b1ba4f3da2c02bb006292ef56759[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:35:51 2017 -0400
+
+    Update 00a-markdown.md
+
+[33mcommit 02b53492f1f56161fe07dacaf9ed6a2ba5f9ac13[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:32:26 2017 -0400
+
+    Update 00a-markdown.md
+
+[33mcommit 7fc014e4a3ea61786d647c444ee6158cd7202887[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:27:15 2017 -0400
+
+    Update 00a-markdown.md
+
+[33mcommit 0a8a1fd2e7dd640dd9905d5927e9bd390edf1aff[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:25:48 2017 -0400
+
+    Update README.md
+
+[33mcommit aa2a96a5b7f75df5212db71def78f43ebb215cbd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:24:28 2017 -0400
+
+    Update README.md
+
+[33mcommit db6ba9a27b6a75405ad892392c0cb35301524d2c[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:22:34 2017 -0400
+
+    Update README.md
+
+[33mcommit 350197bdd425235ae89c5460584d3f7ffcb52941[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:20:53 2017 -0400
+
+    Update 00b-fork_repo.md
+
+[33mcommit 02fb29a7ad0404e59c90bc13cfc8e43c041b0da3[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:19:56 2017 -0400
+
+    Update 00b-fork_repo.md
+
+[33mcommit 56f322d544837f999829743f261915bacf9ee1e7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:19:06 2017 -0400
+
+    Update 00b-fork_repo.md
+
+[33mcommit e4f2271f3fc30e9c9cb3e1e3fbbbcfbcf69f6922[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:18:38 2017 -0400
+
+    Update README.md
+
+[33mcommit 1511053dbf6e71ae73b0fc5608b491b3cc4718cb[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:18:18 2017 -0400
+
+    Rename 04-set_up_repo.md to 04-git.md
+
+[33mcommit 959c2a2b3066eade8a9c083372d3314892ece320[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:17:42 2017 -0400
+
+    Update 00b-fork_repo.md
+
+[33mcommit d1604cbbd11a2176e98531afe43a95a536bb6c98[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:13:16 2017 -0400
+
+    Rename resources/markdown.md to 00a-markdown.md
+
+[33mcommit 3c4ab586055ebe7f33e5a1967ea0e194cf0e08f2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:12:53 2017 -0400
+
+    Rename 00-fork_repo.md to 00b-fork_repo.md
+
+[33mcommit a1134374890e4fcaf23694ac07199effaff6da70[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 19:12:36 2017 -0400
+
+    Update README.md
+
+[33mcommit bdde7d2c07ef6692b95f1877080d2def83efe5de[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:27:04 2017 -0400
+
+    Update README.md
+
+[33mcommit e44c4c5ad45b06cef245cb6ffba8b790f5716773[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:26:12 2017 -0400
+
+    Update README.md
+
+[33mcommit 2759513a36050eafe31eec96b2576d196833077b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:22:59 2017 -0400
+
+    Update README.md
+
+[33mcommit 7afb655659dfbd55c72c5509cc06f4b49fc8097f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:20:31 2017 -0400
+
+    Update markdown.md
+
+[33mcommit 6cd8ca4beab1b175920d44b703a685ba39d99d1b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:19:47 2017 -0400
+
+    Update markdown.md
+
+[33mcommit 4ea9563bb66bef82c2a0175fcc81176bac706eb1[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:18:29 2017 -0400
+
+    Update README.md
+
+[33mcommit 963d29c64df7cac37d2bb018c7b6c8826c08f35f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:13:16 2017 -0400
+
+    Update README.md
+
+[33mcommit 62f09187102268048db60b0896cf88b3f724ef37[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:11:50 2017 -0400
+
+    moved comp specs to own file, moved up to top
+
+[33mcommit 6491c6506552edf253672b449ffd8090c1d64cc1[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:06:08 2017 -0400
+
+    Update computer_requirements.md
+
+[33mcommit 91274cffee62946035dde7dba4542acf550ad26a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 18:05:19 2017 -0400
+
+    Update computer_requirements.md
+
+[33mcommit c4d027babdb569284e03dd7afde161ea262f27f6[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 17:59:35 2017 -0400
+
+    Create computer_requirements.md
+
+[33mcommit 679e95a1ce2c8886e4de87d662383518f5c11e02[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 17:57:46 2017 -0400
+
+    adding placeholder for computer requirements
+
+[33mcommit 362a21873456a6d06b6c9035b16f99f05c5ea8cd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 17:55:32 2017 -0400
+
+    removed git video from part 1 of git, moved to p 2
+
+[33mcommit 23754b2e9cd1120f9bea0465e99bfc1d2fd1b55b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 17:54:58 2017 -0400
+
+    added git video to second part of git steps
+
+[33mcommit bd4280bf0294c103bf7d7815230d1eb0160197bd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 11:20:27 2017 -0400
+
+    fixed extra line from merge conflict
+
+[33mcommit 26c94c4f9fa48ae345f5828c6ac0f358c284e758[m
+Merge: 06513f7 2fae661
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 27 11:19:19 2017 -0400
+
+    Merge pull request #62 from reshama/master
+    
+    added minimum laptop specs to main README.md
+
+[33mcommit 2fae661c22ab93e4889a77bf59dc1c226159ce82[m
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Mon Mar 27 11:16:49 2017 -0400
+
+    adding minimum computer specs to main README file
+
+[33mcommit ce2f14ffeb98c3d29e3884583bab6347d4ee1afd[m
+Merge: 1c16e08 06513f7
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Mon Mar 27 11:10:42 2017 -0400
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit 06513f73cfed8192a8fafd6a7c6d24209e151f22[m
+Merge: 6a70bac 0de2c68
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Mar 15 17:22:59 2017 -0400
+
+    Merge pull request #59 from taylanbil/taylanedits
+    
+    Taylanedits
+
+[33mcommit 0de2c686b22e523bbad3d8f396b76c778f40376f[m
+Author: taylanbil <taylanbil@gmail.com>
+Date:   Wed Mar 15 14:16:48 2017 -0700
+
+    Update markdown.md
+
+[33mcommit a6296b0202b4ab5a1895aa51782c45ad55564d50[m
+Author: Taylan Bilal <taylanbil@gmail.com>
+Date:   Wed Mar 15 14:14:42 2017 -0700
+
+    changed a *** to --- (line break)
+
+[33mcommit 14c9d22f242d5d75c01bafa059474bdcdf3c1418[m
+Author: Taylan Bilal <taylanbil@gmail.com>
+Date:   Wed Mar 15 14:13:06 2017 -0700
+
+    more markdown edits
+
+[33mcommit b6a7f7cd3a01a43e8fccc26efeec164c7c708c86[m
+Author: Taylan Bilal <taylanbil@gmail.com>
+Date:   Wed Mar 15 14:06:00 2017 -0700
+
+    some markdown fixes
+
+[33mcommit 1c16e08c40e3900045da9b9d56b9f557af035b42[m
+Merge: 206faf7 6a70bac
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Tue Mar 14 20:02:03 2017 -0400
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit 206faf7b4f97c2f314b1f8d970dc10f9c8f0279d[m
+Merge: c9b5470 7f936ba
+Author: reshama shaikh <rs2715@stern.nyu.edu>
+Date:   Tue Mar 14 19:58:04 2017 -0400
+
+    updated main readme
+
+[33mcommit 6a70bacec3a05adf9838bad54c75403b5acb18d2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 13 16:13:41 2017 -0400
+
+    Update student_blogs.md
+
+[33mcommit 391aeafd5593a2a0f9beedeb12358176b05b8e8a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Mar 13 15:34:11 2017 -0400
+
+    added LDLPL blog on choosing Metis
+    
+    @aramnath @jasonamoss13 @debbiebere
+    cc:  @emilyawilson @scottchappell
+
+[33mcommit c9b547067211515b4403bd15e77441e924bb58d7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Mar 5 14:07:11 2017 -0500
+
+    Update README.md
+
+[33mcommit 82863304d7d3b42d4b2240bea0e3c24a15231ccf[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Mar 5 14:06:49 2017 -0500
+
+    Update README.md
+
+[33mcommit 7dd503c420e3b5598681142c64d28407fc3e8014[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Mar 5 14:06:22 2017 -0500
+
+    Update README.md
+
+[33mcommit 3e787e02fffd711674adbf27ea301addf77508da[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Mar 5 14:05:24 2017 -0500
+
+    Update README.md
+
+[33mcommit bc56427a33a9360a6870afea510490ffb7cb47ba[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Mar 5 14:04:54 2017 -0500
+
+    Update README.md
+
+[33mcommit 359d0fb92331ee80a695a60268c799b7bf515230[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 26 22:09:59 2017 -0500
+
+    Update README.md
+
+[33mcommit 77733078d4ebeca69e7ed2e738e3e840bf7b8be2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:57:15 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit 4cf5cc5648af662a68edfd36680fd64838de63cb[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:56:24 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit b795e7e1ba0c80dde36f336285d37eb7c5803643[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:56:00 2017 -0500
+
+    update stats book wording
+
+[33mcommit 70dbdbceb29afcc7d623616deb3e615aa175eab1[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:49:14 2017 -0500
+
+    moved think bayes image
+
+[33mcommit a131c719772e8e486b2e81bf06bbd2e2d4d6bb4a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:48:17 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit 852375e888495b8816f41da57da4e0e9013bbc6d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:47:57 2017 -0500
+
+    adjusted stats book reading requirements
+
+[33mcommit 872ed1f767a2887849fc07cfacdfcb4d48f7b8ea[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:29:54 2017 -0500
+
+    Update 03-command_line.md
+
+[33mcommit e52422e59560518202302985cf5e20ab1592453d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 20 13:14:02 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit f565d5e39e52b80038703da7f933af738bf3bcec[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 12:21:09 2017 -0500
+
+    Update 08-more_resources.md
+
+[33mcommit 7f936bab19201150d1e7ecb528a57c77b51824c8[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 12:11:34 2017 -0500
+
+    Update README.md
+
+[33mcommit 4bb3089eb3ea6619a0bcb98558afff65e9ad214f[m
+Merge: 24d6a6b 9f17bc7
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 12:08:54 2017 -0500
+
+    Merge pull request #56 from reshama/v5_pandas
+    
+    adding pandas; update command line
+
+[33mcommit 9f17bc7ef796220204b068bd631d564303df59f7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:59:30 2017 -0500
+
+    Update 04-set_up_repo.md
+
+[33mcommit 34c214d96291cb597a22789623537df723535248[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:58:31 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 6775fb4e153227b01ad7f5d9d3b640d4c34c6df7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:58:00 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit abb5ba1b520219f199003b4e07b8339c9c8078bc[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:53:59 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 9bf1deb129d2709f129f0c5330b2fc47c85c0540[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:50:44 2017 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 2e8106810dd110d1edcf55f4b67ad6bf6fab360c[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:46:48 2017 -0500
+
+    adding more specific instructions 4 bash commands
+
+[33mcommit 6843d5401c699cd343c8fe4c3e48f5dc7e486795[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:43:50 2017 -0500
+
+    Update README.md
+
+[33mcommit d5dd5d7a69541904a8b358f5c90055fe53f1f3c2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:42:04 2017 -0500
+
+    Update jupyter_notebook_1_install.md
+
+[33mcommit fdeaa505cdc1d11dd4d11717f1603460e41c6bba[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:41:14 2017 -0500
+
+    adding jupyter installation
+
+[33mcommit 024e2299d1d723ebc3073d5edae9acce3e063524[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:39:04 2017 -0500
+
+    Rename 01-install.md to 01a-install.md
+
+[33mcommit b5754fa5ab2248fb94a7eab0e9c3155d43eb960a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:38:05 2017 -0500
+
+    Update 01b-install_jupyter.md
+
+[33mcommit 99c7eacfd99c81d375da93dea24fb1e0c0ef11d2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:37:12 2017 -0500
+
+    Update 01b-install_jupyter.md
+
+[33mcommit c45c986b8cb81c5950fc6cf10e3f875f1435c46d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:30:52 2017 -0500
+
+    Update jupyter_notebook_1_install.md
+
+[33mcommit 74bfcbc66c8034815965998a515f1444281361de[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:29:33 2017 -0500
+
+    Create 01b-install_jupyter.md
+
+[33mcommit 854b9353537d4273b610f849e5337d77da2621b1[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:25:06 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 8f5074fd7e40146725d18ce38e0495887f7017cf[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:24:32 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 27d23337d2d31031a3f770ca12a176d548783784[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:24:05 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit bc4f42ea14a9e2011a03f0dc36986c4fc0e63a91[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:21:18 2017 -0500
+
+    Update README.md
+
+[33mcommit 2b8c1841c525074fb7fce73c140cbc3f8cce5887[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:20:40 2017 -0500
+
+    Update README.md
+
+[33mcommit 95afcf3c0fa31f889e574d0115ec28d4c0ae49c6[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:18:58 2017 -0500
+
+    Update README.md
+
+[33mcommit d4c9e43a2ebb7d44fb93c85b644d4e14d019a61a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:18:18 2017 -0500
+
+    adding pandas section
+
+[33mcommit b9fc2d0a4f39590cfe81da5cd148217029cdc0ff[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:07:44 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 54c9f31873130e81408021376a324f379183651f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:07:09 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 7f9f2f448a2943eeb6228838de2cf47ae3938576[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sun Feb 19 11:05:27 2017 -0500
+
+    formatting fixes for olive questions
+
+[33mcommit 63f3608503dcd71f69621e65f91058ae07272d86[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:03:31 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 1bd17f042105f6220b6e28339da01a37413c79d8[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:02:15 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit e98c0053e51a1a97dd96418231fdcef790d4ee86[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:01:52 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 48f7326922e5df59cd9f99d4eae1273ffd24236a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 11:01:09 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 76181bb26188e60530e2ac35e121ca742f7c8853[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sun Feb 19 10:59:45 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit ec6cefb52e25b932794e82f885ebccb229b846d8[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 22:41:52 2017 -0500
+
+    minor formatting to notebooks
+
+[33mcommit 7b65658b21a5a793a6ce800f3022ea2afb12e9f0[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 22:39:48 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit aa4aea9b4fa4dcea04492229ef08c78e16995066[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 22:30:57 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit a2f551ea8748bd0c9c1e90a0006b8ac857ee567a[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 22:29:22 2017 -0500
+
+    renamed notebooks to more meaningful names
+
+[33mcommit a951b61f2ab233540b41bff13fcdc1993468c175[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 22:21:56 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit b444c63e24524a9aae5f0bfe5bcf63f10abcc132[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 22:18:16 2017 -0500
+
+    updated pandas notebooks
+
+[33mcommit 6dfb6ff68dad9868ca227ebbb1766b67638389d1[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 22:13:54 2017 -0500
+
+    updated pandas notebooks
+
+[33mcommit 7920df453cdc072d41de5b7e3626c2e4a71c2828[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 21:52:13 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 9381fe9a6c438773d94457f93b24ece955cdc119[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 20:19:59 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 6c82f36343f9f0f6eb721898aaead8eaee7d70b9[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 20:19:03 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 0531f43f3318a492f86658734a5ca5babdd7f980[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 20:16:17 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 5e978fe8628343391f020edd35f1fc0164c428a9[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 20:15:55 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit f100e411c7ed863141144f51ac02e84c4e0614cd[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 20:13:22 2017 -0500
+
+    Update 05c-python_pandas.md
+
+[33mcommit 6e27278c3a89bca8f84de562e50c9b399cc74d04[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 20:07:22 2017 -0500
+
+    adding pandas pre-work
+
+[33mcommit e7138b59e2d323046887b997f95aea787b4fdc95[m
+Merge: 34e0aa4 24d6a6b
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 19:53:27 2017 -0500
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit 24d6a6b0c2db0bff33ddc95d1e8500e8e497cc74[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 19:51:55 2017 -0500
+
+    Delete .keep
+
+[33mcommit 34e0aa44d48b65c28e896346c43190ed5dae4c25[m
+Merge: 8750b37 d3b3a2a
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Feb 18 19:50:58 2017 -0500
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit d3b3a2a5857f12a86a949a43f329cd9272bdf667[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Feb 18 11:20:17 2017 -0500
+
+    Create .keep
+
+[33mcommit c22f3988ec998738282c65c10c8616ae798ee37a[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:24:17 2017 -0500
+
+    Update 05a-python.md
+
+[33mcommit 3d6c3b19ae124d0fa4f0823620c0ddce9715f226[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:23:37 2017 -0500
+
+    Update 05b-python_advanced.md
+
+[33mcommit 775281e8f96fc75349027d4d62368f5205ddc5cf[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:21:59 2017 -0500
+
+    Update 05b-python_advanced.md
+
+[33mcommit 00846b765dc8e3a22b5a84504064b92c065343ce[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:12:47 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 0a6dd8460d18ec79141773e524e01be239021236[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:11:59 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 6171238e0825d419be1643cc2027687ba0c0c72d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:09:26 2017 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 625a210948c7432faf814c4d87c8c08e39c7d235[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 16 19:07:54 2017 -0500
+
+    added link to git video
+
+[33mcommit a0f3e44956ccbf62348ff245775e014477228e90[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Thu Feb 9 09:25:06 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit b05d9784244d49e06fd4a41074ec5bb6f9bc997e[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Feb 8 13:37:45 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit 88c5cc7730aab44e3e1bc16ac24505e055169c4f[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Feb 8 13:32:37 2017 -0500
+
+    Update 07-statistics.md
+
+[33mcommit 88e87b4cab191cad043bdc5f3d9129eca0862499[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Feb 8 13:26:36 2017 -0500
+
+    Update 07-statistics.md
+    
+    Added new section:  Why we are using Think Stats
+    @aramnath jasonamoss13
+
+[33mcommit b7aac9f57d5bb0bbb3c2b05bb2000d47a6c30cec[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Feb 6 17:57:57 2017 -0500
+
+    Update 08-more_resources.md
+    
+    added stats book recommended by @pburkard88
+    cc:  @aramnath
+
+[33mcommit ed4a326aaccfe66a90c1de9bcd2a633aead681fb[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Feb 1 18:06:33 2017 -0500
+
+    Update README.md
+    
+    @mlgill
+    Just put **install Ubuntu** in bold.
+    Thanks for the update.
+
+[33mcommit 5b28be36d63e9b4ce202541a8cde6c6b422b861a[m
+Merge: d5ae447 f2f56cd
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Feb 1 18:04:53 2017 -0500
+
+    Merge pull request #55 from mlgill/master
+    
+    Clarify Linux install instructions
+
+[33mcommit f2f56cdf7287cb20dd0a7adf77c573cf0ef2872d[m
+Author: Michelle Gill <michelle@michellelynngill.com>
+Date:   Wed Feb 1 17:38:04 2017 -0500
+
+    Clarify Linux install instructions
+
+[33mcommit d5ae44742ba9aafc5b0725a1ad2c57be8ef3d092[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Jan 28 19:29:22 2017 -0500
+
+    Update 08-more_resources.md
+
+[33mcommit 52f3c78726cf405adb2122c3d658a5403ac741a2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Sat Jan 28 19:25:24 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit a815a37b14495afeebf0cf5d9ab687ad408493b5[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:48:43 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 8522ae1f569cbdbc0b3e9f4693e9ea6a3233be61[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:47:57 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 6315861311ddbf845ff86fbb9f28bb3f9c04d81b[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:47:07 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit ef26eacfb15f2acf8dac67bbf4cef42877567c90[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:44:38 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit d135a2054aae7f95e703929a0cfd4dc6b4edef47[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:43:18 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 64a7e6b3051de39ed4756c6d7e61e01409b86dbb[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:41:01 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit a1a83a9e18fe25a26f11cea9e6a87afe751a3e44[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:37:12 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 5d9147efb499cd256dd7cf8d5e98182f99202f54[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:36:03 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 6e19e61b15d3cc677409ba8b62ac44e310704336[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:35:52 2017 -0500
+
+    editors - updated text to stress terminal
+
+[33mcommit 2d65d5237426e8218d7e4a7ffec16a2d5df0aeba[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:29:52 2017 -0500
+
+    Rename editor/README.md to editors/README.md
+
+[33mcommit 947a4ee8741a4ee30dfb55bbbdb6ad33404482a2[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 19:29:00 2017 -0500
+
+    Create README.md
+    
+    create folder to upload files created by 3 terminal editors.
+
+[33mcommit 6f2e2b9b5e88a8bf60d359ee10764528ecbe2af7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Fri Jan 27 18:38:40 2017 -0500
+
+    Update 02-editors.md
+
+[33mcommit 6326d021f05297ab6801aa0ba28e8597ac398cf3[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Jan 4 10:15:04 2017 -0500
+
+    update wording to encourage use of Py 3
+
+[33mcommit b63926f50f7cd513e9dac7fafc8c936864636173[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Wed Nov 30 13:36:37 2016 -0500
+
+    Update 08-more_resources.md
+
+[33mcommit 76888c988f18f5f619d5d04cad0d10e72014aea7[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Oct 3 16:52:38 2016 -0400
+
+    Update student_blogs.md
+
+[33mcommit 40bd2eb161cba37ab2c5dc7bc3dea3a944fe457d[m
+Author: Reshama Shaikh <reshama@thisismetis.com>
+Date:   Mon Oct 3 16:51:59 2016 -0400
+
+    Update student_blogs.md
+    
+    added a SF blog
+
+[33mcommit 8750b374cbc0ea691648f755c2c0d589972108cc[m
+Merge: 7308325 8d0c383
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Sep 17 10:04:35 2016 -0400
+
+    Merge branch 'master' of https://github.com/reshama/dsp
+
+[33mcommit 7308325b3c6c324698b141a383d447db448841f8[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Sep 8 19:07:22 2016 -0400
+
+    Update 07-statistics.md
+    
+    added TOC at top
+
+[33mcommit bfc794772a05f6f9b9021c991b3bd2adb5d4b016[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Sep 8 19:02:48 2016 -0400
+
+    Update 07-statistics.md
+
+[33mcommit 8d0c3838db112a0037429572ab51d90905196019[m
+Merge: c309584 cc28f45
+Author: Ubuntu <ubuntu@ip-172-31-61-9.ec2.internal>
+Date:   Sat Sep 3 00:30:59 2016 +0000
+
+    Merge branch 'master' of https://github.com/thisismetis/dsp
+
+[33mcommit cc28f452ffb84456ae0811ec9b61c63433259f8d[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Aug 30 09:03:19 2016 -0400
+
+    Update jupyter_notebook_1_install.md
+
+[33mcommit 68603a92c749bb5dac088a738c2222a20716d18a[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 11:01:07 2016 -0400
+
+    Update README.md
+
+[33mcommit d0c87754faa2bd352bed96ee7cb12d7e01eff469[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 10:58:03 2016 -0400
+
+    Update README.md
+    
+    added link to Markdown
+
+[33mcommit 78248abad3a2e8c94940dcc45f97c0a30df2ba83[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 10:54:40 2016 -0400
+
+    Rename READMEs.md to README.md
+
+[33mcommit a6e56e7c0fe426ecfb4f9d20eb48245729e7fb87[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 10:54:26 2016 -0400
+
+    Delete README.md
+    
+    added TOC to new file
+
+[33mcommit d35ceffd5552f9869477d66f7a5ffd34bd348ffb[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 10:53:57 2016 -0400
+
+    Rename README.md to READMEs.md
+    
+    updated README, added TOC to sections
+
+[33mcommit a709c82c3eec4ec9cdb93fd2a0012a3c1d41296e[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 28 10:52:47 2016 -0400
+
+    Create new_README.md
+
+[33mcommit db8934f952078d7e9fa83a0291e75bbdb445b48b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Aug 24 20:28:41 2016 -0400
+
+    Update README.md
+
+[33mcommit b7ee484f5c079f132f0095647d0146f17b6141a3[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 22 21:41:19 2016 -0400
+
+    Update 03-command_line.md
+    
+    updated command line tutorial links
+
+[33mcommit 9f75eaaaf190dbb6b63a0de6cab59bf4df2bd60e[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 21 13:28:53 2016 -0400
+
+    Update README.md
+
+[33mcommit 53800fb350f63e7b1d206493bdeb5ab04650b081[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 21 13:26:28 2016 -0400
+
+    Update README.md
+
+[33mcommit afdf5558612af2df8323246525efa4429ad17e66[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 21 12:33:13 2016 -0400
+
+    Update README.md
+
+[33mcommit 2e38cff74c20593d6a658363c780434838a5375f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Aug 21 12:32:28 2016 -0400
+
+    Update README.md
+
+[33mcommit f360cfdf964a90b541b8aaec10e92d3850aa6720[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 20 21:33:29 2016 -0400
+
+    Update README.md
+    
+    adding 'save your work' message in red font, via img
+
+[33mcommit b743310883d2b8ade40625b49f7ce40d4c998077[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 20 21:32:26 2016 -0400
+
+    Add files via upload
+    
+    adding 'save your work' image
+
+[33mcommit 451cae35ed450f84c75ed3f27cc2a9faae924382[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 20 21:24:18 2016 -0400
+
+    Update README.md
+
+[33mcommit 911540684ce3c4a3f146424252752b555e3594d4[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 20 21:21:42 2016 -0400
+
+    Update README.md
+
+[33mcommit 225bd4908d0d2125ba57c5051826f4b74d2fbc8b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Aug 19 16:06:28 2016 -0400
+
+    Update README.md
+
+[33mcommit 036943c35e99e8f2629a69f494f8d72d93b3de87[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Aug 19 16:06:06 2016 -0400
+
+    Update README.md
+
+[33mcommit deaa765f6b84048d2413c981b263f7065d195581[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Aug 19 16:04:30 2016 -0400
+
+    Update README.md
+    
+    made section on Mac/Windows its own
+
+[33mcommit 30b6a32bef5fabab0f4039d65060032be1019d23[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Aug 17 22:47:50 2016 -0400
+
+    Update README.md
+    
+    added instructions for submitting pre-work (don't submit, leave work in forked repo.)
+
+[33mcommit 618d09b0cfc75c2b3a8a782d799d17401f750fbe[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 15 22:16:14 2016 -0400
+
+    Update 08-more_resources.md
+    
+    added link for Python Style Guide
+
+[33mcommit 9482235784cf113f276c4f86cb150f44469d580a[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 8 14:42:10 2016 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit 5c92c6a13d2c6e739ea1f8a759b018232d96bd6d[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 8 14:41:50 2016 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit 333f2cfe1a19b8011fa13526f11801605ffde0c5[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 8 14:41:18 2016 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit e3619f3b51a6357f8c40fb51464fd3b27b7511ab[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 8 14:38:40 2016 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit c3502d8661ead665ce43e7fccab12d5cd549f818[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 8 14:23:55 2016 -0400
+
+    Create git_video_history.md
+
+[33mcommit c309584bf0eb0132deb0b9a42368a951b5ab1ebb[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 6 16:02:20 2016 -0400
+
+    Update 00-fork_repo.md
+    
+    added second emoji
+
+[33mcommit c64fc38bd57b9d9bbfaf227e8ce5af857b443750[m
+Author: reshama <rs2715@gmail.com>
+Date:   Sat Aug 6 15:52:22 2016 -0400
+
+    added emoji
+
+[33mcommit 69fe5c137501b51ac4c371dd79d6c1332f1125b1[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 6 12:21:07 2016 -0400
+
+    Update student_blogs.md
+
+[33mcommit a48edafa46996d6570685f16a345243b46670f2f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Aug 6 12:20:51 2016 -0400
+
+    Update student_blogs.md
+
+[33mcommit ab059978728f6f464366df7f4df193b4b78a99aa[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Aug 5 09:12:49 2016 -0400
+
+    Update README.md
+
+[33mcommit 6af6ef4fb03c193ccbc60783c79ae4ca4ae039db[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Aug 4 20:46:45 2016 -0400
+
+    Update 01-install.md
+
+[33mcommit fbc34414807f721c81d485abcfb8c780bcf8a112[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 20:00:43 2016 -0400
+
+    Update markdown.md
+
+[33mcommit ee7603a2ce17a3175bec5cf61deda8e5e4e5f890[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 19:38:53 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 7e0e6ca3c52342cfd059cf15583fd9f2f6c74042[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 19:22:37 2016 -0400
+
+    Create jupyter_notebook_2_use.md
+
+[33mcommit 9f8c8e5f5b4104d0847c37bd429c2fe124b0b4aa[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 19:21:18 2016 -0400
+
+    Rename 1_install_jupyter_notebook.md to jupyter_notebook_1_install.md
+
+[33mcommit b8f25d084cdd98690951012e0d9f3531eeb92ee2[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 19:20:32 2016 -0400
+
+    Create 1_install_jupyter_notebook.md
+
+[33mcommit f62fa7df63fc40084a60ace2c0427868a42a90a4[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 18:38:47 2016 -0400
+
+    Create student_blogs.md
+
+[33mcommit 11e03587e85a4350e52067f72042ffa48462f31e[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 13:45:07 2016 -0400
+
+    Update markdown.md
+
+[33mcommit a8d9fe61a9cae224f2bab64c7e1e080bde6f33f4[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 13:44:41 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 24b18cf285a284b9c9846508ffdd9cdac1dc87e5[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 13:44:14 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 4cdf0966ae54293781d35deb654150a8049a998d[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 31 13:30:06 2016 -0400
+
+    Update markdown.md
+
+[33mcommit d3130cc28b02aacd3129c2d865310aab28e0fb11[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Jul 24 10:59:39 2016 -0400
+
+    Update 01-install.md
+    
+    adding text indicating current version of python used during the bootcamp is 2.7
+
+[33mcommit 0b37ef3c48771efa84043468948b57d4fb3e19d6[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Jul 20 20:05:45 2016 -0400
+
+    Update 04-set_up_repo.md
+    
+    added "metisgh" so dsp repo is cloned in this folder.
+
+[33mcommit 828704c3b7fe008687f502b640f171e4435c119a[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Jul 20 20:00:37 2016 -0400
+
+    Update 07-statistics.md
+    
+    added 'metisgh' to directory path (put all git repos in one folder).
+
+[33mcommit ac24ca473cbe01225ed65b0d58749f71e7aac3ab[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon May 30 15:39:29 2016 -0400
+
+    Update q8_parsing.py
+    
+    removing hints since it's causing confusion for users.  Many ask questions about why import csv or "self" in function.
+
+[33mcommit 7a76a5cac935982945dd3e6fbb562206109567fd[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun May 29 22:27:46 2016 -0400
+
+    Update 02-editors.md
+
+[33mcommit 7e65e59fedbf6cc33a8dd2cafbfd6a43ea833967[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 11:23:36 2016 -0400
+
+    Update 08-more_resources.md
+    
+    added completion time for D3 tutorials
+
+[33mcommit c5e0577ea5ce405bb62f17e290cfee588e29fa9b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 11:22:44 2016 -0400
+
+    Update 08-more_resources.md
+
+[33mcommit 7e0a99ca79ed3591d2eed9ddf5694ef91a0b573b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:26:41 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 20fcfe0d0c5d4fc8c4a7a2245b2fc0a176ef2939[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:25:06 2016 -0400
+
+    Update markdown.md
+
+[33mcommit f5fd73e8c1ff6da6890b462efbacdee24ebfaeda[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:24:32 2016 -0400
+
+    Update markdown.md
+
+[33mcommit d0a80c7f61725d57fd1f23ddf9c010b897c72720[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:21:54 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 6dba1f6cdb1e75fc686d02059d2e3eaaedff38aa[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:20:33 2016 -0400
+
+    Update markdown.md
+
+[33mcommit ee5ebe79751655903d29961469f27be48f6f08d2[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:20:19 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 2e448b660a38dec2bc474821a0f8dd21b704fbb9[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:20:07 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 5e6a453e13c4b9b6cfcac8c9936bac90f60dc16d[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 10:03:02 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 4e861b8ed0281a07bbf9590db86c5d22d02bc88f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 09:56:09 2016 -0400
+
+    Update markdown.md
+
+[33mcommit 9f88076a74f4e013595c2642e8cf6d108a0b1cea[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 09:54:52 2016 -0400
+
+    Rename markdown_examples.md to markdown.md
+
+[33mcommit a2700ca62e975d4498636259bb9a1854c12d1a93[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue May 17 09:39:27 2016 -0400
+
+    Create markdown_examples.md
+
+[33mcommit 7bad77fbf243593b5728752ed2c92a024eab0854[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu May 12 22:47:56 2016 -0400
+
+    Update 05b-python_advanced.md
+
+[33mcommit a77873a169a5646b1bb51048ea954aef9b6b8c51[m
+Author: Lingqiang Kong <konglq@gmail.com>
+Date:   Thu Mar 17 13:44:58 2016 -0700
+
+    removing accidental answers from dsp
+
+[33mcommit 540fb66232cd54f255ba150e69ca7792ac38f092[m
+Author: Rumman Chowdhury <ruchowdh@users.noreply.github.com>
+Date:   Wed Mar 16 15:03:33 2016 -0700
+
+    RC 01-install
+
+[33mcommit 7e0c72a0b5a06537b692ac2de3b1440c81ae2352[m
+Author: Rumman Chowdhury <ruchowdh@users.noreply.github.com>
+Date:   Wed Mar 16 14:56:50 2016 -0700
+
+    RC added emoji
+
+[33mcommit b643c9dc5094cd363f9aaf011d13eceaacfa0103[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Thu Feb 25 16:44:51 2016 -0500
+
+    Update 07-statistics.md
+    
+    renumbered optional exercises
+
+[33mcommit d9e3082c1e3a5ffdf644525b5da4b530a47e110d[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Thu Feb 25 16:43:54 2016 -0500
+
+    Update 07-statistics.md
+    
+    Moved Q5 and Q6 to optional section
+
+[33mcommit d85db00a895f4bcf66295ea433c9a8b862345db2[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Thu Feb 25 16:29:24 2016 -0500
+
+    Update README.md
+    
+    update link to 07
+
+[33mcommit b67f3c4967fdf692cd0842c1bc3807d235b34d26[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 13:02:18 2016 -0500
+
+    Create matrix_algebra.py
+
+[33mcommit 9d61fd1f937b3d7ed1ead949324e0e3cdedd7393[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 13:00:05 2016 -0500
+
+    Added files via upload
+
+[33mcommit 2e71bbf69bdd208fb84f20bc09eb11f9f5145542[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:59:43 2016 -0500
+
+    Added files via upload
+
+[33mcommit 33aa502fb34103363e3117869d8be8857babf953[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:58:47 2016 -0500
+
+    Create linear_algebra_in_4pages.pdf
+
+[33mcommit 41b81c10fcdb39009177f1f3c1c7f004e288925c[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:40:24 2016 -0500
+
+    Rename 07-linear_algebra.md to 06-linear_algebra.md
+    
+    Updated Step number from 7 to 6
+
+[33mcommit 650f44acf41c919ee21a9c6ab7848521a6ffdeda[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:39:56 2016 -0500
+
+    Create 07-linear_algebra.md
+    
+    Added Linear Algebra
+
+[33mcommit b0ca5b8328973c272dd9bd881af03663204d1e9e[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:38:31 2016 -0500
+
+    Update 08-more_resources.md
+    
+    Removed Linear Algebra Resources
+
+[33mcommit 759836390e21da52acb11531d08bd6348ad3d54c[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:37:19 2016 -0500
+
+    Rename 07-more_resources.md to 08-more_resources.md
+    
+    Updated Step 7 to Step 8
+
+[33mcommit 38bbbacbb872dcb3dc3c6de17f4ebcdfe14845fa[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:36:11 2016 -0500
+
+    Update README.md
+    
+    Updated links - added new step (Step 6 Linear Algebra).
+
+[33mcommit 00c8487e588358492d5e94cda4083f7ae43bc7f9[m
+Author: aramnath <amy@thisismetis.com>
+Date:   Mon Feb 22 12:33:04 2016 -0500
+
+    Rename 06-statistics.md to 07-statistics.md
+
+[33mcommit b97bcf1e5cb3081d894f4076ad96c6ee952f5ebd[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Feb 21 12:26:01 2016 -0500
+
+    Update 06-statistics.md
+
+[33mcommit 7622dd2c40e880f112883993e032408e1ffc5769[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Feb 17 13:26:12 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 43eb0b616d31680dc1387efcc5bb78988aa4e94a[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Feb 17 13:26:02 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit b5d5e37191d5bcbe841eeb51830af7833d99f30a[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 23:25:00 2016 -0500
+
+    Update 06-statistics.md
+
+[33mcommit 9d981e0b2f3965f1b9d5bec033ffa8866799e49c[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 23:20:16 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 09f0330b9ad5b122a4a1286bb2a6caf6953b44f6[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 23:19:50 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit c3831d830497eaa1073bdc88c03cf46c14c48f92[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 23:19:05 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 72bc17d2c7049ac1051f8bc08e45ec59ca707b18[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 23:18:01 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 59e465f60e03502f4df187c803bd51b4c92ac334[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 21:15:30 2016 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit f8579f3524b0bad4596e4da005fa4ac139aeb23f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 21:14:11 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit 67ab4912fd6eaa4f6073d87a2d551911433828af[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 21:12:42 2016 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit e07eb68eedc15c2fbea7df56f20d51c4c4efe5d9[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 21:12:03 2016 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 952c8c1c951e297abdd4afa9ba6a416f9e906a62[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:56:18 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit da02c347b43eb4f4a3b87feb13e832c20074f457[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:48:44 2016 -0500
+
+    Update 01-install.md
+
+[33mcommit f9c5a8e6b5304772336f3eaa37562dc316642c9d[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:46:50 2016 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit e2a6c45c26bedcf4dac1403102e392c97441f1cd[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:46:10 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit 72825f42a7728e00367594e0f0ced5c5f9ac4c0f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:45:47 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit a59fdf2e29a6fc3a96aa9638c43d69bb1a4a8c91[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:45:31 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit 91e9f85dcfe66c9c2f8ba2629650b5d31f84b06f[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:45:11 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit e0c80d01da11bac6217aecbf8fa2bb809ddae184[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:44:19 2016 -0500
+
+    Update 02-editors.md
+
+[33mcommit e399a2c5efb7da98521cdb77be31a0abf5f676b2[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:42:05 2016 -0500
+
+    Update 01-install.md
+
+[33mcommit 6c830b30e319ba590d9ea9e2a5ec7f3b5653d6de[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:41:29 2016 -0500
+
+    Update 01-install.md
+
+[33mcommit 1dedcd54b5b2405adcccd1d69c2d7d8b590b5a9c[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:39:20 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 115dc84f49257d0112ea2b492de564ebab4838ea[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:38:16 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit fb2f8e09d4375c9b023ab9919983ff8b22338273[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:36:45 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit d1f803e4c2a27fbc27d4c53cdbb31468dfd889a1[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:35:55 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 86beb6c3b95c7418cf21702449a4750265dfd532[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:34:41 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit e436a272b292963b484149ca5a81d37e7ba4c6ef[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 16 20:34:20 2016 -0500
+
+    Update 03-command_line.md
+
+[33mcommit 93fe3df80c62beefb2378f2b5c60aa2718ff2603[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Feb 10 17:52:36 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit be434a63f79b969e31e698e23f4a70cc30a8434b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Wed Feb 10 12:25:16 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit 2c2c0556b533297d2907b8848bb7c01229c9a841[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 9 13:48:34 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit 2cfa7c50d2ff137e8f5954f7d05d071813af6842[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 9 13:47:46 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit e9a841f32af41c6519fe2d0ecc7a892b8c733600[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 9 13:47:23 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit 7a614f55364a5d2a746d2b9e6d0e80d5933615fa[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 9 13:47:11 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit 1152201df099b81322f6659e91948add1bc77ba9[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Feb 9 13:41:03 2016 -0500
+
+    Update 07-more_resources.md
+
+[33mcommit a943ac2a7e4b60ea5abde68f30ae723a095cd7eb[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sat Jan 2 15:20:31 2016 -0500
+
+    Update 06-statistics.md
+
+[33mcommit 16c2962c35d49149a6c37e6d6ee144c29432eed3[m
+Merge: 805c831 e99c82c
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Nov 13 22:10:52 2015 -0500
+
+    Merge pull request #37 from reshama/master
+    
+    fixing second broken link at end connecting to section 4
+
+[33mcommit e99c82c4ad18c1d4bd04ff624b5c18ba28df5e71[m
+Author: reshama <rs2715@gmail.com>
+Date:   Fri Nov 13 22:10:28 2015 -0500
+
+    fixing second broken link at end connecting to section 4
+
+[33mcommit 805c83154f6725f5cc75c9497ceda85b823d9c82[m
+Merge: 7fae577 100f190
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Nov 13 22:09:08 2015 -0500
+
+    Merge pull request #36 from reshama/master
+    
+    updating link to section 4
+
+[33mcommit 100f190b7ff4d3b455b11b36b84ab5f706503143[m
+Author: reshama <rs2715@gmail.com>
+Date:   Fri Nov 13 22:08:37 2015 -0500
+
+    updating link to section 4
+
+[33mcommit 7fae57737579ed31c1df265178aadea3b0b7460b[m
+Merge: 1727c20 e18b355
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Nov 13 21:56:25 2015 -0500
+
+    Merge pull request #35 from reshama/master
+    
+    Update 00-fork_repo.md
+
+[33mcommit 1727c20f45ae365664396dbed2dab6c26ddb7b48[m
+Merge: ba10a2c 4d2494e
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Nov 13 21:52:26 2015 -0500
+
+    Merge pull request #34 from reshama/prework_v4
+    
+    updating link
+
+[33mcommit 4d2494ed0e684a6fb89f1c53012fb652a936b2c1[m
+Author: reshama <rs2715@gmail.com>
+Date:   Fri Nov 13 21:48:38 2015 -0500
+
+    updating link
+
+[33mcommit ba10a2cfdcacbc725fa933bca89a53479c159eee[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Nov 12 18:37:42 2015 -0500
+
+    Update README.md
+
+[33mcommit d988bf06edb9bc96f747db1b29c935d5f115d493[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Nov 12 18:36:05 2015 -0500
+
+    Update README.md
+
+[33mcommit ec21f872961d3fc758ef420b851980e0f3019256[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Nov 12 18:35:50 2015 -0500
+
+    Update README.md
+
+[33mcommit effab3bc61ce7dc1aa44fba2ead4055a3bdc8ab7[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Nov 12 18:35:37 2015 -0500
+
+    Update README.md
+
+[33mcommit e18b35579ed4895237c8305b5c68985fec8650c2[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Sun Nov 1 17:33:33 2015 -0500
+
+    Update 00-fork_repo.md
+
+[33mcommit 8e5c7c4a3a487b8fc5bdcb102275426f8d6fd4f6[m
+Merge: 8ddb200 4179009
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 01:06:37 2015 -0400
+
+    Merge pull request #32 from reshama/prework_v4
+    
+    formatting d3 tutorials, again, pesky bullet points
+
+[33mcommit 417900936e7b8509d1ad3958af1f20f56a14879f[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 01:05:35 2015 -0400
+
+    formatting d3 tutorials, again'
+    
+    exi
+    exit
+    )
+    sldj
+
+[33mcommit 8ddb2004ec4c2714010e2d82734fa884bb9cfd6b[m
+Merge: 51946f5 ddca462
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 01:04:47 2015 -0400
+
+    Merge pull request #31 from reshama/prework_v4
+    
+    formatting for D3 prep work tutorials
+
+[33mcommit ddca4627dd20180edd801a595a6120a39fd87aa6[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 01:03:46 2015 -0400
+
+    formatting for D3 prep work tutorials
+
+[33mcommit 51946f5627225010115765c84663246b3085edf3[m
+Merge: 60bcd43 5c57073
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 01:00:50 2015 -0400
+
+    Merge pull request #30 from reshama/prework_v4
+    
+    adding SQL Zoo tutorial
+
+[33mcommit 5c570734f6af017ebeb8659b9e31fc330ec5bbdd[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:59:26 2015 -0400
+
+    adding SQL Zoo tutorial
+
+[33mcommit 60bcd430779d5e6c53382b9a80f55f0ea483c33f[m
+Merge: ca950bd dc959d5
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:50:11 2015 -0400
+
+    Merge pull request #29 from reshama/prework_v4
+    
+    updated instructions so regular expressions is not required
+
+[33mcommit dc959d5d37028d70120e6f16980cb2215c0c3630[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:49:28 2015 -0400
+
+    updated instructions so regular expressions is not required
+
+[33mcommit ca950bd7ad92861a26e61657b81ca1a8202e1972[m
+Merge: e220cc6 5ab8d0a
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:44:16 2015 -0400
+
+    Merge pull request #28 from reshama/prework_v4
+    
+    updating instructions, commit csv file, add days for timedate, parsin…
+
+[33mcommit 5ab8d0a902fb4e8f4f6391f5cba6205c0b7d3ddd[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:41:55 2015 -0400
+
+    updating instructions, commit csv file, add days for timedate, parsing choice of approach
+
+[33mcommit e220cc6ce9db1442ac2adbfb4789e9b3f35ecefe[m
+Merge: a0a32cc b1eac31
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:27:27 2015 -0400
+
+    Merge pull request #27 from reshama/prework_v4
+    
+    update stats exercises labels to include stats concepts
+
+[33mcommit b1eac31be153bc1cb0f76270dac72655766924c2[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:26:18 2015 -0400
+
+    update stats exercises labels to include stats concepts
+
+[33mcommit a0a32cca4ca1845f27160416dd33ac0dfc0a06c0[m
+Merge: 3c7f875 f9c2efb
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:15:11 2015 -0400
+
+    Merge pull request #26 from reshama/prework_v4
+    
+    formatting
+
+[33mcommit f9c2efb77bff7f8dfa15eea3941632066fc59342[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:14:31 2015 -0400
+
+    formatting
+
+[33mcommit 3c7f8754d40f063694ba8623475bb71b566ad2c5[m
+Merge: 76c1a37 452f538
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:13:47 2015 -0400
+
+    Merge pull request #25 from reshama/prework_v4
+    
+    formatting
+
+[33mcommit 452f538d11411fbaaa780ee6a4d9b3f5de736b2c[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:13:20 2015 -0400
+
+    formatting
+
+[33mcommit 76c1a37bf869cc03903adc6450ca77b0120a2e49[m
+Merge: cbdd282 8e89833
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:12:40 2015 -0400
+
+    Merge pull request #24 from reshama/prework_v4
+    
+    formatting
+
+[33mcommit 8e89833f1ca12b04a33c5e76d9b8e47e146559d4[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:12:07 2015 -0400
+
+    formatting
+
+[33mcommit cbdd28287b9213b5254073a772567e37ec9ad509[m
+Merge: abea30f 5976f2b
+Author: Reshama <reshama@thisismetis.com>
+Date:   Tue Oct 20 00:10:58 2015 -0400
+
+    Merge pull request #23 from reshama/prework_v4
+    
+    adding D3 resources
+
+[33mcommit 5976f2b3d9ac6a25f53a7385707f1bfc35ea30fa[m
+Author: reshama <rs2715@gmail.com>
+Date:   Tue Oct 20 00:09:43 2015 -0400
+
+    adding D3 resources
+
+[33mcommit abea30f90bd4ab7136d70912cd9242c685fd6f15[m
+Merge: 82f7111 4f55da1
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Sep 18 14:53:44 2015 -0400
+
+    Merge pull request #22 from thisismetis/update-to-v4
+    
+    Update to v4
+
+[33mcommit 4f55da17c4aafd02c3d2035fcba627020409484c[m[33m ([m[1;31mupstream/update-to-v4[m[33m, [m[1;31morigin/update-to-v4[m[33m)[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Sep 18 14:51:58 2015 -0400
+
+    add instructions
+
+[33mcommit f84655ed2e8ebefa3e174400a00f07ba38afabf8[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Sep 18 14:50:33 2015 -0400
+
+    changed order of instructions
+
+[33mcommit 82f7111390070144f7c2bf8612e509e6da74f722[m
+Merge: d58491d a7e3ca7
+Author: Reshama <reshama@thisismetis.com>
+Date:   Fri Sep 18 14:38:45 2015 -0400
+
+    Merge pull request #21 from reshama/update_v4
+    
+    remove weather file , no longer needed
+
+[33mcommit a7e3ca70966a007156737d7a5ef7f6c97642a93c[m
+Author: reshama <rs2715@gmail.com>
+Date:   Fri Sep 18 14:36:22 2015 -0400
+
+    remove weather file , no longer needed
+
+[33mcommit d58491ddc879e15270a5d0ee676495daf6136727[m[33m ([m[1;31mupstream/add-github[m[33m, [m[1;31morigin/add-github[m[33m)[m
+Merge: f5ebf17 69f643d
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 17 17:06:33 2015 -0400
+
+    Merge branch 'master' of github.com:thisismetis/dsp into add-github
+
+[33mcommit f5ebf1793592c885ae08c4bcafc46319fbaadee4[m
+Merge: e335696 f8b70a8
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 17 17:02:07 2015 -0400
+
+    Merge pull request #16 from reshama/patch-5
+    
+    updated Step 4 references
+
+[33mcommit 69f643d6eb4e77ff34705db3526404c8fc24cc06[m
+Merge: 8ba6ae0 e335696
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 17 17:01:41 2015 -0400
+
+    Merge pull request #17 from thisismetis/add-github
+    
+    added github instructions for editing in browser
+
+[33mcommit f8b70a87de4711f422eb78007c17f5bf60dcbe5b[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Mon Aug 17 16:37:36 2015 -0400
+
+    updated Step 4 references
+
+[33mcommit e335696d9f52460c7f251236f650e2d34187727c[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 17 16:04:46 2015 -0400
+
+    added github instructions for editing in browser
+
+[33mcommit 8ba6ae0e9964da0d40eeef7fa8b8434e62bc9ad8[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri Aug 7 18:28:08 2015 -0400
+
+    don't create `dsp` dir; `dsp` is created by clone
+    
+    Hi @laumontemayor and @reshama! I appreciate all the work on the pre-work here! Cool to see you extending it! It's diverged considerably from what I would do in terms of organization and style, but don't worry, I'm not going to go through and take off all the trailing whitespace. :smile: Make sure that @jonhanke and @julialintern stay connected to what's happening in `dsp`, since they'll be working with the students produced by it!
+
+[33mcommit b88fd929868e6a00bb4805d17d42f05213cdebda[m
+Merge: f75ce6a 7328636
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Thu Aug 6 15:07:37 2015 -0400
+
+    Merge pull request #15 from reshama/patch-4
+    
+    Update 06-statistics.md
+
+[33mcommit 7328636a47b8d8188aef62564c5565f8098a63b1[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Aug 6 14:11:42 2015 -0400
+
+    Update 06-statistics.md
+    
+    removing the word "parameter" from Cohen's D
+
+[33mcommit f75ce6a4827329e05cc5a7b17fb3d46c32bebf54[m
+Merge: ef8ef5b 177a878
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Thu Aug 6 13:58:43 2015 -0400
+
+    Merge pull request #13 from reshama/patch-2
+    
+    Update 05a-python.md
+
+[33mcommit ef8ef5bac2b9cafe4edcec9d7ff4b0c8b84d06b2[m
+Merge: 6afbc97 8acd282
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Thu Aug 6 13:58:32 2015 -0400
+
+    Merge pull request #12 from reshama/patch-1
+    
+    Update 06-statistics.md
+
+[33mcommit 6afbc974e1f9a8af1f2f4a0290be47ba40aa32df[m
+Merge: 21b0daa d81f3a7
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Thu Aug 6 13:58:22 2015 -0400
+
+    Merge pull request #14 from reshama/patch-3
+    
+    Update 04-set_up_repo.md
+
+[33mcommit d81f3a776fa944c75b37b149314035f38bb77868[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Aug 6 12:07:15 2015 -0400
+
+    Update 04-set_up_repo.md
+    
+    Step 4:  changed directory path to incllude "ds/metis/prework/dsp/"
+
+[33mcommit 177a87876be5400a36549cbc4705a58969a606ee[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Aug 6 12:05:56 2015 -0400
+
+    Update 05a-python.md
+    
+    Q8.  change "function" to "functions"
+
+[33mcommit 8acd28295dfcf7b688b4d7b601be0fbb5b718f86[m
+Author: Reshama <reshama@thisismetis.com>
+Date:   Thu Aug 6 11:58:09 2015 -0400
+
+    Update 06-statistics.md
+    
+    added:  Instructions, see FAQ line, Q4(bonus optional)
+
+[33mcommit 21b0daa9d8ca444380c6473c344f12729c28887c[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Aug 6 11:03:01 2015 -0400
+
+    updated stats and removed extra file
+
+[33mcommit 30443f490d749a9cb05e39a051f3e37a3d249f8e[m
+Merge: f63fa39 a146b0d
+Author: Laura Montemayor <laumontemayor@gmail.com>
+Date:   Wed Aug 5 17:26:02 2015 -0400
+
+    Merge pull request #11 from thisismetis/dsp-revamp
+    
+    Mergin.... :sunglasses: :metal:
+
+[33mcommit a146b0d5a59d09bfdf8de2fb1bf22b899bf4f4be[m[33m ([m[1;31mupstream/dsp-revamp[m[33m, [m[1;31morigin/dsp-revamp[m[33m)[m
+Merge: 6adb4a4 f63fa39
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Wed Aug 5 17:24:51 2015 -0400
+
+    fixed ghostly conflict
+
+[33mcommit 6adb4a499050aa962c8c897a35eb77feed3ac8c1[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Wed Aug 5 17:18:29 2015 -0400
+
+    added link
+
+[33mcommit c3f0c9e87105cdcaabce7e7dee3ee71c92784a6b[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Wed Aug 5 17:13:12 2015 -0400
+
+    added more explanation
+
+[33mcommit 0483ddcef94919aa1a49a284c44f92e6a80f927c[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Aug 4 12:07:28 2015 -0400
+
+    added instructions
+
+[33mcommit efea50765c5563c869c8e6bc0b4aeb280189a69f[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Aug 4 12:04:24 2015 -0400
+
+    added more instructions
+
+[33mcommit cf17a753be0a5b359be4c60cdbbf50d548c70bae[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 3 17:08:38 2015 -0400
+
+    added faq
+
+[33mcommit 1bdfa322156e0f741ac237f0c640986c4ff02078[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Aug 3 17:04:49 2015 -0400
+
+    changed order of pre-work
+
+[33mcommit bb030c8ccba41f3603a4df4296310e09bbe7b474[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 16:08:59 2015 -0400
+
+    added a few tweaks
+
+[33mcommit 952824a444415abeddf5fbe5aa49574f927955da[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 12:30:09 2015 -0400
+
+    added functions to python problem
+
+[33mcommit 0247668c153eaa145e20976085369dcd83232be0[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 12:21:27 2015 -0400
+
+    added imgs and instructions
+
+[33mcommit 7ff383826d24a50071ffc0e40aa1ad3715cefe8d[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 12:08:33 2015 -0400
+
+    added images
+
+[33mcommit f63fa393c0b9aab3532eb466f65108e7fe658057[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 11:44:49 2015 -0400
+
+    added space
+
+[33mcommit 6f877ae6059722096c311d0525c728b1aba3f182[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 11:43:40 2015 -0400
+
+    more instructions
+
+[33mcommit ff9b056a129b4cfdb116567d6d7dac69484d3b08[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 11:40:29 2015 -0400
+
+    added more github instructions
+
+[33mcommit b41ed05efa4439ae1d62fa460aa2e05a1759c521[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 10:48:27 2015 -0400
+
+    added line about images
+
+[33mcommit c94abc327f7c34e9410a5fd5c0f3afc797cee312[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri Jul 31 10:46:15 2015 -0400
+
+    added github instructions
+
+[33mcommit d7236077acff7d2fbf47898db6c6f89708c7b236[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Jul 30 08:32:20 2015 -0400
+
+    added thorough instructions for git
+
+[33mcommit 1758d7080b07555469d52939d2b19987f7dde4df[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:37:05 2015 -0400
+
+    added space
+
+[33mcommit 6476a996f8b8c9beff4fd9f3d259c7c99639362e[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:33:28 2015 -0400
+
+    more
+
+[33mcommit 4064d8a12bfc5be13899561f72ed4b82c80afbcb[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:31:04 2015 -0400
+
+    typo
+
+[33mcommit f5f4585a7d7e70af4bcdb1fa6bd3944e9a662c50[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:29:58 2015 -0400
+
+    g
+
+[33mcommit 8e964f1e33ab620011a11d31e8ca4112b0bce652[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:26:56 2015 -0400
+
+    header
+
+[33mcommit b7e918ec4efa541d2d61aaee81ee5ee419adf5b7[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:26:06 2015 -0400
+
+    revmoed dot
+
+[33mcommit 16d2dfd000cade41bea56206d313964b0b1c86bb[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:25:50 2015 -0400
+
+    updated readme
+
+[33mcommit 53cf75443066e03579e2c3a87dea5546849ce93d[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:23:07 2015 -0400
+
+    added
+
+[33mcommit 80171c7f5b71086c7aab440d66c7fab996cf1eb7[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:21:46 2015 -0400
+
+    cleaned up csv
+
+[33mcommit 986669dab7c637114a4d621a3d6f6c3d27941a88[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:20:12 2015 -0400
+
+    fixed link
+
+[33mcommit bca4c6a6e05aa590c814f3fab837d7df3ae2d720[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:19:40 2015 -0400
+
+    formatting
+
+[33mcommit 6651dbcfa22ebb0a29bce47eedbc453ff3efba61[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:18:37 2015 -0400
+
+    typo
+
+[33mcommit 250a22077b6c9927fcfca7422945f3de1594658e[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:17:46 2015 -0400
+
+    advanced python
+
+[33mcommit 2102004dc21ff50c17b57c427775018c807652c5[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:09:26 2015 -0400
+
+    numbers
+
+[33mcommit 0be933b8e1185ee55a65d310b154b80cc2166b84[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:08:58 2015 -0400
+
+    eeek
+
+[33mcommit 9fdb78ca36d4e173deb717383c99645f3ec32469[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:08:36 2015 -0400
+
+    spaced
+
+[33mcommit bc09b050dbfcf91e193e60ed1c570484719b5fdf[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 17:08:03 2015 -0400
+
+    separated python exercises
+
+[33mcommit 14fdfadcf0c8fc2c40242c1dcd4cd9e005dec196[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:58:28 2015 -0400
+
+    added header
+
+[33mcommit dd40d866877e77846de46ba9c0df3652348cc111[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:52:38 2015 -0400
+
+    bolded duration
+
+[33mcommit 8d30e13cbaa801f505a50f8ebeba99179b6dd92a[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:42:36 2015 -0400
+
+    resized images
+
+[33mcommit a2c5578c5ed4f70c15f868c50cc6399e9d3a87a4[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:40:08 2015 -0400
+
+    added line
+
+[33mcommit 09742123c07431e77380e30e8034edbdbeae0527[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:39:17 2015 -0400
+
+    added optional
+
+[33mcommit 168b7bb04c1a89538b1a0ad22e67f5b1f98cbe08[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:38:37 2015 -0400
+
+    question
+
+[33mcommit 88dab99f747cc134de36dc0412e15a2818a73da6[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:36:55 2015 -0400
+
+    added break
+
+[33mcommit 60c9a82ebfb8d56315c83cde8677e76fdbcceaf1[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:36:26 2015 -0400
+
+    added break
+
+[33mcommit 218843684d189c82470b6bf5f5aa43bcfb24c807[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:33:02 2015 -0400
+
+    added space
+
+[33mcommit 9c265349892801f68106d3c8e725939726d6e631[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:28:10 2015 -0400
+
+    formatting
+
+[33mcommit 533d5da35646fb54e3c6677ed0a97ed83dc35766[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:26:20 2015 -0400
+
+    python
+
+[33mcommit 26f39d0a9dd6f02663bd0011a9e4416ece2f87c5[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:23:05 2015 -0400
+
+    stats changes
+
+[33mcommit 5e28d553cbf33ac19081d15f798b7e5c02da124d[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:20:38 2015 -0400
+
+    more changes
+
+[33mcommit d0abd8500c7031731a561bf7a1a0c02d0c7131e1[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:19:48 2015 -0400
+
+    added instructions
+
+[33mcommit 5a80fa0fd38683ba78e07ede06554373c51be166[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:17:08 2015 -0400
+
+    removed space
+
+[33mcommit 19307a940b82691ccd03f976273414862d186ee7[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:16:51 2015 -0400
+
+    newline
+
+[33mcommit f11dfa8e10ba870d99266e703bae6585ad795a05[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:15:56 2015 -0400
+
+    code
+
+[33mcommit 3a22b3936afb2c1d5d85367da0a22e5098dc09f6[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:15:08 2015 -0400
+
+    added code
+
+[33mcommit 6d5f5efaa052b1dcdc0b0b309efe329ae259bc56[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 28 15:11:32 2015 -0400
+
+    added python
+
+[33mcommit 3e24da34992a19c5d3af0d84246fdf9f0fc61341[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Jul 27 16:48:26 2015 -0400
+
+    stats exercises
+
+[33mcommit bb5b11e665da3c4ca3441fc29247031db2dfec69[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Jul 27 16:35:46 2015 -0400
+
+    numbered python exercises
+
+[33mcommit c0ad6f7bf95b23ccb7df435704a275b31e2c83a4[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Jul 27 16:17:17 2015 -0400
+
+    added instructions and styling
+
+[33mcommit 963b7fd62b2353f3caa05f5c3eae0dd156cf49ce[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Jul 23 10:06:11 2015 -0400
+
+    added more wording to python
+
+[33mcommit c6f75f6d5d7c342e2e0932f01b8eadaf5d254bc7[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Jul 23 09:59:54 2015 -0400
+
+    added symbol so answers are easier to see
+
+[33mcommit 60f566b00ee07f0126496c4acbfb2baa3fac2389[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Jul 23 09:57:53 2015 -0400
+
+    cli additions
+
+[33mcommit b6ce09dddf089f3a7f4b08428f5b58eb7b9893ed[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 15:17:16 2015 -0400
+
+    added faculty csv
+
+[33mcommit dc3386577fef4125f8685924fc6683b385bb17fd[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:16:09 2015 -0400
+
+    added more instructions
+
+[33mcommit c93e9ed0e0850adb6215b8b09c367447cd046645[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:15:42 2015 -0400
+
+    added csv files
+
+[33mcommit b7ba431ae56d1744df52070d1212c9d53e31012e[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:05:56 2015 -0400
+
+    pulled out markov problem
+
+[33mcommit aae829243436e1b313e40c6f1be0f8b5b91b48a0[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:05:47 2015 -0400
+
+    added more instructions
+
+[33mcommit a9e39336621addf35d1b5f557fb6d78af98c9266[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:05:39 2015 -0400
+
+    another parsing problem
+
+[33mcommit 9870b73146b17e43fc7535891c6f255dfa19b4f0[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 12:05:24 2015 -0400
+
+    added parsin problem
+
+[33mcommit 2603598f0093a4a2ea018f406607079fdbfd2af5[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jul 21 11:10:04 2015 -0400
+
+    made stats problems optional
+
+[33mcommit eff0a5c5263d4409529e7c22196ec80ea239ae0a[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 22 17:50:24 2015 -0400
+
+    undo rash change
+
+[33mcommit 333878103c7be990acd9ff3a1d2eadb617cb02c7[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 22 17:48:38 2015 -0400
+
+    consistently use single quotes
+
+[33mcommit e2600fa1f389f0925ab911bbc28e636f7f8882f9[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Thu Jun 11 21:11:58 2015 -0400
+
+    updated image
+
+[33mcommit a42010cca1f257993d842a3c47df1030cbf5960c[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun Jun 7 13:28:24 2015 -0400
+
+    now called dsp, not dsprework (thanks @reshama!)
+
+[33mcommit d2f8cf14079c73baa5485683af5f6e92b1748068[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed Jun 3 15:40:14 2015 -0400
+
+    add link to how-to-code as per @reshama
+
+[33mcommit 85fc6e2ba1fa50495d80f766015f9690f8ccfad4[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Merge: c8e063e 005b4af
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:41:36 2015 -0400
+
+    Merge pull request #27 from ajschumacher/newgit
+    
+    release candidate
+
+[33mcommit 005b4afc869ff564714f3c4c006ace6da7b348be[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:39:41 2015 -0400
+
+    project would be in its own repo
+
+[33mcommit 10564d8c132bf8e30269909f7a8267601a929dbf[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:37:17 2015 -0400
+
+    'both' didn't make sense in that sentence
+
+[33mcommit afbe8d7af79f661202ddecff1bded49761a3df56[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:36:36 2015 -0400
+
+    cheat sheet first
+
+[33mcommit d6c24a63ea909f6f13ee6f784d09e93bedb0f73f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:35:20 2015 -0400
+
+    it's called Jupyter now
+
+[33mcommit b80a330f17b1c287129a702142fee56fd1f4010e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:33:07 2015 -0400
+
+    brief suggestion for simulation project
+
+[33mcommit 4cc276d9197f8bbe1bd2479507381af8a2f5012c[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:28:46 2015 -0400
+
+    better flow
+
+[33mcommit 61a7cd62a8fa0b38ce2b8a3a29f24f0725981c3a[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:28:10 2015 -0400
+
+    pro git image
+
+[33mcommit d0cf3d26290bd5c751d1ba1a01a5188028e5be20[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 16:22:42 2015 -0400
+
+    markdown link where needed
+
+[33mcommit 18af00ff6b3754f9b7f0019d0ccb67d32a50b484[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:52:39 2015 -0400
+
+    better directions yet
+
+[33mcommit b1b4f8c8ae2c3723d5ac076be1f1e891123e95cb[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:51:30 2015 -0400
+
+    simplify instructions; add question
+
+[33mcommit 314e7721b1358fa3d26ca2f2df8163e01774c16c[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:48:43 2015 -0400
+
+    rename files
+
+[33mcommit 79df3bd9628a676f67088711dc8b7bfbecffd16e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:43:29 2015 -0400
+
+    better directions
+
+[33mcommit 495453f13c3d8618ebceb32d3930966c8de4bdcc[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:39:45 2015 -0400
+
+    strike problem @reshama doesn't like
+
+[33mcommit a6430de02131ac8a743d8991021a8de6069b1e7d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:38:54 2015 -0400
+
+    standardize stats question files
+
+[33mcommit 9d5c5f680d48378da5dfdc15be70fbc0a56949b5[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:25:54 2015 -0400
+
+    short names for questions
+
+[33mcommit c23b52b20318b40323f3f5c4e62ececa3ca4919f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:06:52 2015 -0400
+
+    numbered markdown-style
+
+[33mcommit f04158de291c1657bbf6895210767ac2e04d4fdd[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 15:00:54 2015 -0400
+
+    "effectively" is vague
+
+[33mcommit 6a8f994f911693386d67e63b1f6a68448c2c64dd[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 14:59:37 2015 -0400
+
+    add markov programming activity
+
+[33mcommit b01f8dbfcf0ed89fe30e6e2cb5338aeec904e8db[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue Jun 2 14:25:05 2015 -0400
+
+    homebrew is not optional
+
+[33mcommit c8e063e732c1963d52cff4ed082d0b592355c3ba[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jun 2 10:29:41 2015 -0400
+
+    removed problem statement
+
+[33mcommit 2dc509a79fcdb3ed1b423f32860495f3cacc041f[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jun 2 09:50:19 2015 -0400
+
+    added optional exercise files
+
+[33mcommit e0e1a60194cf68774c8a19439f2fe2574d5519a1[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jun 2 09:35:21 2015 -0400
+
+    changed stats problems format
+
+[33mcommit 3c715314aec170a9755fa44ff33db7b8ad47ead8[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Tue Jun 2 09:12:42 2015 -0400
+
+    separated problem solution
+
+[33mcommit 53f990aec255feed25099df10ab03b3120200989[m
+Merge: fe56ece 197268f
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 1 22:10:48 2015 -0400
+
+    Merge pull request #26 from ajschumacher/newgit
+    
+    Laura's back! close issues!
+
+[33mcommit 197268ff5a593f65b7e7118eedccc8c7d47833fc[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 1 22:09:27 2015 -0400
+
+    add python/stats READMEs; refs cbdfd49
+
+[33mcommit 1d3afa831cdb99b31c1a6003b0fcbac9ac2bf85d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 1 22:07:09 2015 -0400
+
+    refs to other systems out; closes #11
+
+[33mcommit e1a136e1994cb3c5b88c00b9ffb87b71521d6526[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Jun 1 22:06:27 2015 -0400
+
+    40 hours in, itemization out; closes #10
+
+[33mcommit fe56ecea8b75c493bd5380fe1109457792ad4030[m
+Merge: f2a9ad8 da87853
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 18:29:20 2015 -0400
+
+    Merge pull request #25 from ajschumacher/newgit
+    
+    link to correct files
+
+[33mcommit da87853dcf21c95bc2686a2c564dba7197683c60[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 18:28:21 2015 -0400
+
+    link to correct files
+
+[33mcommit f2a9ad825f16f381d1ee082853b75a73dd1df99d[m
+Merge: 5e8fcb6 d28d3f5
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 18:19:54 2015 -0400
+
+    Merge pull request #24 from ajschumacher/newgit
+    
+    some python exercises ready to go
+
+[33mcommit d28d3f533fc6c238b9363f618c180748b23c7935[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 18:15:41 2015 -0400
+
+    corrected based on solution
+
+[33mcommit 50b6d9f41cfdff56d820c9c5fe9a105a246c865b[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 15:20:44 2015 -0400
+
+    add a .gitignore
+
+[33mcommit caf9859bd1613f6da43f1216f7b14b71d2d653b6[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 15:20:08 2015 -0400
+
+    better messages about testing things
+
+[33mcommit de61e90ed107450a42bef76e6c884980ead8528f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 14:00:04 2015 -0400
+
+    correct version based on solution
+
+[33mcommit 3f6981ff9d2437004746c7db897cba1fa569bc15[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 13:57:33 2015 -0400
+
+    rename so that they can be imported
+
+[33mcommit 5e8fcb61c9c24f6bf42b499b1b72066e1ff4a03c[m
+Merge: ca4736b bd139da
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 11:08:50 2015 -0400
+
+    Merge pull request #23 from ajschumacher/newgit
+    
+    links for required exercises too!
+
+[33mcommit bd139da589ac9a405456351b7f12e692f12f846d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 11:06:48 2015 -0400
+
+    links for required exercises too!
+
+[33mcommit ca4736be0fe78d3744849266e96f7e8a31de9af0[m
+Merge: 554a3bd 56ac5d6
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 10:57:07 2015 -0400
+
+    Merge pull request #22 from ajschumacher/newgit
+    
+    spelling and DRYing
+
+[33mcommit 56ac5d646ae86d24571dc65e2b2305a80e5e7d31[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Fri May 29 10:55:19 2015 -0400
+
+    DRY up optional stats exercises
+
+[33mcommit 90513e1841bb581f04dd44919dc4814711518134[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 23:28:05 2015 -0400
+
+    'distribution' not 'distrubution'
+
+[33mcommit 554a3bd18fb3a5dd58896db18a510f2d3e9c6265[m
+Merge: 57648cb dc27c49
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 23:23:22 2015 -0400
+
+    Merge pull request #21 from ajschumacher/newgit
+    
+    work on Python exercises mostly
+
+[33mcommit dc27c49a805a175e64a394949d5f6a593bb1a48d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 22:35:12 2015 -0400
+
+    simpler links to exercises
+
+[33mcommit 789669e829c4835353be01f0634ac06a82b6ceef[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 22:32:36 2015 -0400
+
+    doctestify list exercises
+
+[33mcommit 94398e4830341828a23b0650b9ae990299098b0f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 17:58:28 2015 -0400
+
+    move things into position
+
+[33mcommit d3a1d975badef3f80733b974cf9813a6e3be9b30[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 17:47:15 2015 -0400
+
+    convert to real docstring testing
+
+[33mcommit df78c5c64937a394d4f1bae5c2ed98d7e2ed2ba0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 15:17:06 2015 -0400
+
+    fake like things are doctests
+
+[33mcommit 96302517df7be54df647d66a07ee628d489f8667[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 15:14:54 2015 -0400
+
+    who taught you to indent Python with 2 spaces?
+
+[33mcommit 29bc6d342bdc565d1ea5264ae52ecb1406a1aca1[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 15:06:17 2015 -0400
+
+    combine, remove dup stuff, remove main()
+
+[33mcommit 29a16fe6413fa481250d6dfcb8a8b7de3d24f64f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 14:35:01 2015 -0400
+
+    exercises by topic
+
+[33mcommit d31b3c2788516a22c046d78b90fdd89e694b8c95[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 14:21:08 2015 -0400
+
+    add some Python "essay" questions
+
+[33mcommit a49fbd2d60ec2599625c9c0a92530e5e8f357477[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 14:00:04 2015 -0400
+
+    grammar
+
+[33mcommit af79ed27e3ffae712191629c5d7227d961c2ada0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:59:24 2015 -0400
+
+    consistency
+
+[33mcommit 4a21d62fad1b33d54fe2a1c5fafbcaf0f4cbcf08[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:58:31 2015 -0400
+
+    couple more resources
+
+[33mcommit 38a8207591805978f35289bfdd49bb6a7c9f6ba1[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:46:59 2015 -0400
+
+    bayes in bayes section
+
+[33mcommit 4a78f6cc0d08734ec330d0a31211b5cd84ab05fa[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:46:35 2015 -0400
+
+    final newlines
+
+[33mcommit eaae9f803536dd0564aafa8a34d6d60f24e12920[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:43:08 2015 -0400
+
+    fix spacing
+
+[33mcommit 70f1ce1762f4fb830fc4374ec14560d3346dbceb[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:42:43 2015 -0400
+
+    fix quotes
+
+[33mcommit bd0099e95d7090893bb2e7b7cf8a40b5ffec0571[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 13:40:58 2015 -0400
+
+    standardize style, remove extraneous detail
+
+[33mcommit 57648cb4611070d7ba4c0b52a9dcf4a93351340e[m
+Merge: 14b5343 4cd1932
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Thu May 28 09:01:48 2015 -0400
+
+    Merge pull request #20 from ajschumacher/newgit
+    
+    silly display formatting
+
+[33mcommit 4cd1932addeb8b25244ea0146c203d3794695ac5[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed May 27 18:07:28 2015 -0400
+
+    no exclamation points
+
+[33mcommit 80f98962ebcd8d813d1aa9750ce5adb267315901[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed May 27 09:16:43 2015 -0400
+
+    clumsily try another thing
+
+[33mcommit 4ac7c80d7d37b485034b15a4abceac56043117ba[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed May 27 09:14:33 2015 -0400
+
+    try to get images side by side
+
+[33mcommit f7a0c867e927d91fc6b58bd058d602c544943cd1[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed May 27 09:11:01 2015 -0400
+
+    experiment with image width
+
+[33mcommit 14b5343442c7b92409d1c206568d415bf54385c2[m
+Merge: 9903c22 dd7f157
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue May 26 21:04:33 2015 -0400
+
+    Merge pull request #19 from ajschumacher/newgit
+    
+    simplify; remove links to long lists
+
+[33mcommit dd7f157ab339cf5ee119206844328164ea1bc258[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Tue May 26 20:40:48 2015 -0400
+
+    simplify; remove links to long lists
+
+[33mcommit 9903c220acc08f488b9f8c4ec67c67774ffec145[m
+Merge: 39a799c 34fb847
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:24:21 2015 -0400
+
+    Merge pull request #18 from ajschumacher/newgit
+    
+    more late night updates
+
+[33mcommit 34fb8474aa8c419f836564864ece4af413034259[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:23:09 2015 -0400
+
+    remove refs to "new" 2nd ed. vs. 1st ed.
+
+[33mcommit 5a3ba48a7bcee7ab9f801011d6e4e590f41bb585[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:21:35 2015 -0400
+
+    no longer a stats.md...
+
+[33mcommit 3594ddb469661aa07dd0a6c7a643cb86811bfd5d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:20:37 2015 -0400
+
+    more visible books with dir in there
+
+[33mcommit 803ad984153403f86cbeee6be819f9b85013b234[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:15:21 2015 -0400
+
+    sexy book images :eyes:
+
+[33mcommit 509aa64ce689225394143897391862ecea324bc6[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:09:43 2015 -0400
+
+    space and name code blocks
+
+[33mcommit d7190ad0bbc112c572f5151aa8ed25ae6d4b2e71[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 23:08:07 2015 -0400
+
+    there is no longer a python.md
+
+[33mcommit 39a799c3475218595de6e9ebe8bc471c19b22e8f[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 22:39:33 2015 -0400
+
+    try to make question clearer
+
+[33mcommit 07c7afbb4d5a374780a1d35a4923e5a08340bc0f[m
+Merge: 2ea5f1a d0778b3
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 22:33:58 2015 -0400
+
+    Merge pull request #17 from ajschumacher/newgit
+    
+    add questions through section 04; refs #15
+
+[33mcommit d0778b311d1df26b8f7d2d5aa6d1841c6130c537[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 22:33:06 2015 -0400
+
+    add questions through section 04; refs #15
+
+[33mcommit 2ea5f1abb1785ae5f38a0000d2e2af86dd4472bb[m
+Merge: 53676b4 23de7c5
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 18:45:22 2015 -0400
+
+    Merge pull request #16 from ajschumacher/newgit
+    
+    improve flow, possibly. more questions
+
+[33mcommit 23de7c525268e01a6b77816c16af0b8c0d2e7612[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 18:44:41 2015 -0400
+
+    improve flow, possibly. more questions
+
+[33mcommit 53676b4f4d29e473a8cde900570a7be684c90dc3[m
+Merge: e513ea7 a9d78bd
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 18:35:33 2015 -0400
+
+    Merge pull request #14 from ajschumacher/newgit
+    
+    cleanup and new editor section
+
+[33mcommit a9d78bdba4f3e156b0a7d2ea80eb3482fe66d43e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 18:34:37 2015 -0400
+
+    re-write editor section
+
+[33mcommit dbda52f70cd2725fec9bcefa7c9150fea75b6ddb[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 17:16:41 2015 -0400
+
+    align titles between README and files
+    
+    also standardize on H1 header level
+
+[33mcommit af7b3e768484871f6a27084f539946f7ad8c995d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 17:15:01 2015 -0400
+
+    period at end of sentence
+
+[33mcommit bb816105eb0bb484eea5e9318330461687d45256[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 17:12:31 2015 -0400
+
+    whitespace-cleanup
+    
+    Ah! @laumontemayor, do you have your editor set up to leave two spaces
+    at the end of lines under some circumstances? Maybe that's what's
+    causing this. I have whitespace highlighting for trailing whitespace and
+    tabs and things, so I tend to notice and compulsively run
+    whitespace-cleanup :)
+
+[33mcommit e513ea78bd2e8defceb391626d5f0589ec8cea8e[m
+Merge: 6f89d5c acf1839
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 15:18:38 2015 -0400
+
+    Merge pull request #13 from ajschumacher/newgit
+    
+    drastically simplify the install step; closes #6
+
+[33mcommit acf1839472b5f90bbd298bf6453153cb2beeeaa1[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 15:17:37 2015 -0400
+
+    drastically simplify the install step; closes #6
+
+[33mcommit 6f89d5cd0a8c29b9c0b7c8cfd8787a82b84a726e[m
+Merge: 749ebf1 b4512c9
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:57:55 2015 -0400
+
+    Merge pull request #12 from ajschumacher/newgit
+    
+    organize files to be more self-describing
+
+[33mcommit b4512c9a9d87e9898e7699abb9a18f718bbb44ec[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:55:41 2015 -0400
+
+    fix python links into python dir
+
+[33mcommit 899c74acd05e68f5a4d0155f8bd59eba703a16eb[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:54:09 2015 -0400
+
+    no separate file for optional exercises
+    
+    We shouldn't have optional exercises anyway, probably.
+
+[33mcommit 6aa9a4f36317596f9e285b92fdd07f8907c1cdcf[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:53:22 2015 -0400
+
+    fix links to statistics dir
+
+[33mcommit 68c7f911aac0098cb52d636bcdc886667f6a46d0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:52:19 2015 -0400
+
+    whitespace-cleanup
+
+[33mcommit cbdfd493c7cc7b72302f8f5932b666e78ed5e4b9[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 25 14:51:58 2015 -0400
+
+    numbered files together
+    
+    @laumontemayor I'm moving these so that the whole numbered sequence
+    is in the root directory of the repo. I want the file tree itself
+    to be a navigable interface. I'll fix the links I'm breaking in a
+    separate commit.
+
+[33mcommit 749ebf12f7166ce6b82c7e54c534302f16dddfeb[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 10:12:24 2015 -0400
+
+    modified readme
+
+[33mcommit 7863ba4c0cf82026e1e5299ad7e344dd4e29b021[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:52:19 2015 -0400
+
+    moved files
+
+[33mcommit 056fef4b27e8c73610b8fe167f5f54eb9441cc51[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:52:13 2015 -0400
+
+    modified readme
+
+[33mcommit e6356713d3964dbbc392f1d853aaa94e30d9873b[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:51:59 2015 -0400
+
+    moved main python into section
+
+[33mcommit d7633a5c9be3d020054f18f3c1fe460a5da2d73b[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:51:28 2015 -0400
+
+    added copy
+
+[33mcommit 97ca5765d1f6305966fca3e34ae92c6c1f804b50[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:50:55 2015 -0400
+
+    separated stats exercises into separate files
+
+[33mcommit 1882bc85c2eb77a5dc6f33eefbaf1231847fd2e9[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:33:28 2015 -0400
+
+    added stats folder
+
+[33mcommit 5c80568dacabff0f8b5e4617319ccfd5a9358a16[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Fri May 22 09:33:14 2015 -0400
+
+    added python folder
+
+[33mcommit 7bc4cd73686a23c22212fac44261aa863d5719ff[m
+Merge: 237e1ef 73042e0
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 4 11:21:43 2015 -0400
+
+    Merge pull request #5 from ajschumacher/newgit
+    
+    new numbered file names
+
+[33mcommit 73042e015b374c55cf08ebf8bc8bb34936a069d7[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon May 4 11:21:02 2015 -0400
+
+    new numbered file names
+
+[33mcommit 237e1ef71ccb119ec8c8eb6bef240992b7c723fd[m
+Merge: 4876203 e574744
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:52:06 2015 -0400
+
+    Merge pull request #4 from ajschumacher/newgit
+    
+    re-organize files and flow
+
+[33mcommit e5747443fc28ec39770ee155adeae0e6534ce697[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:49:36 2015 -0400
+
+    put alternative inside main
+    
+    Really nearly all of both these installation pages need to go.
+
+[33mcommit 43be3e0d96cc1672b6c1328f10e72a524a2f9549[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:48:00 2015 -0400
+
+    consistent bullet style
+
+[33mcommit f3997512c2950a119312bc0012eb77c3250578e4[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:46:47 2015 -0400
+
+    makes sense to put outline in readme now
+
+[33mcommit 965322fbb52a0ee4302cf06a81bdd67d8029476e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:44:34 2015 -0400
+
+    statistics is better than stats
+
+[33mcommit a77db973975dd7e109487535faf9a3c4cfec0e43[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:43:57 2015 -0400
+
+    tweak order
+
+[33mcommit 6d94fbd4008bd7e6dee60e153b1c0b9eb79e82e0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:43:05 2015 -0400
+
+    make the outline an outline
+
+[33mcommit da411bf83e2a9356bc07dcfc9a00a22ad779bf25[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:37:56 2015 -0400
+
+    omit needless words
+
+[33mcommit 1edc227728c69c22ee60e5a32c4e69f7bbab53a3[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:35:45 2015 -0400
+
+    do, or do not. there is no try.
+
+[33mcommit c9285f79f11065add493c7d328162d3ea5df163d[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:35:24 2015 -0400
+
+    remove equivocation about deadline
+
+[33mcommit b119bf83e815fecfa850c51a21d014b108882ab1[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:35:00 2015 -0400
+
+    remove link to merged exercises file
+
+[33mcommit 50f52a647731bd0e7ad2f7ec0e6e55a4dc896e1e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:34:16 2015 -0400
+
+    remove time estimates
+
+[33mcommit 63a28214823864f58c80b933643a20965d2e867b[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:33:13 2015 -0400
+
+    put stats exercises in stats page
+
+[33mcommit 98bb006ba4efce0f41469fc8e284e107b27a13e8[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:28:33 2015 -0400
+
+    clean up formatting
+
+[33mcommit 150ba58b47cc2be34a4fb2b95e5dc91dd3eab004[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:24:04 2015 -0400
+
+    clean up alternative install
+
+[33mcommit c32d5efa085df796b60e44cfd76b24378b22365c[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:20:58 2015 -0400
+
+    consistent fill; better spacing
+
+[33mcommit fbbdf964c01da6d460abf70cb333b70e1c8242ad[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sun May 3 23:19:36 2015 -0400
+
+    capitalize OUTLINE
+
+[33mcommit 48762032e93cc35234efffe5dcb49e9d02598797[m
+Merge: 894d9a9 e8d4d68
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Mon Apr 27 22:54:31 2015 -0400
+
+    Merge pull request #3 from ajschumacher/newgit
+    
+    editing workflow HOWTO
+
+[33mcommit e8d4d68056332b410d8fabe8c86fc95feb2ff19e[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 11:08:22 2015 -0400
+
+    some final edits to read better
+
+[33mcommit 304ec6609814446e796563caa8be2d2c77aa1ed0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 10:54:50 2015 -0400
+
+    extend / edit deeper extensions
+
+[33mcommit 21a6705e648ce541d559b57ead2b1c64a70dd451[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 10:28:00 2015 -0400
+
+    add note on repeatability of committing
+
+[33mcommit a8708b5f02acf9d8837f8f3be08e86a23df2e0f6[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 10:27:18 2015 -0400
+
+    tweak web interface notes somewhat
+
+[33mcommit b2a8b494b5109d1f868d884dd055148f16693180[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 10:01:08 2015 -0400
+
+    make github signup/in super explicit
+    
+    closes #2
+
+[33mcommit 429fbd4d23af4f1ccf00fb9f3e264d6fa9a59aea[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 09:53:19 2015 -0400
+
+    whitespace and &apos; cleanup
+    
+    Hi @lauramontemayor! I saw that there were some &apos; things in here;
+    was that intentional? Are there any issues with having 's in github markdown?
+
+[33mcommit 33f690506506f1c2920802dead59b54c8c76dcce[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 25 09:51:48 2015 -0400
+
+    less preachy intro
+
+[33mcommit 894d9a9a14c30549527eff3fc607e727701e6cc7[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Wed Apr 22 13:22:03 2015 -0400
+
+    added borders around images and action items
+
+[33mcommit e3575138bfd78f95db9a22ed895ea3d616d85b86[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Apr 20 14:58:50 2015 -0400
+
+    fixed typo and added link
+
+[33mcommit 45c95c1629551d1d621eee326e81db572eabbf55[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Apr 20 14:43:34 2015 -0400
+
+    added final comment
+
+[33mcommit abd5789a0af489eeb1bda8d49183c582e220bc89[m
+Author: laumontemayor <laumontemayor@gmail.com>
+Date:   Mon Apr 20 14:40:52 2015 -0400
+
+    added instructions for forking
+
+[33mcommit 73f7b17e8495fe5ef6dd679883a2f5d4fe08f529[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 12:04:46 2015 -0400
+
+    change wording to require finishing before Metis
+
+[33mcommit 47406abe8114663262b4f7f2c9f9ebe2f25d35c0[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 12:02:48 2015 -0400
+
+    take out more refs to discourse emails
+    
+    This had Irmak and Bo's emails in it? yikes! Let's avoid things that
+    need to be updated for specific cohorts in things like this.
+
+[33mcommit bc3c334e457cd6544a1b0f4786c52b0c267f3f23[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 12:00:51 2015 -0400
+
+    cut reference to Discourse
+
+[33mcommit 9642d5da13ddf624b068374a04cc198eb1d40dd5[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 12:00:06 2015 -0400
+
+    introduce Metis logo and top-level org
+
+[33mcommit 11b573da609a33a73bb5c07a25f8744a6f6e83dc[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 11:47:37 2015 -0400
+
+    whitespace-cleanup
+
+[33mcommit 705bcc5af84aa6ed79238bc9009e7767ccd95aa5[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Sat Apr 18 11:44:22 2015 -0400
+
+    remove ipython notebook template
+    
+    the new direction for the prework is to have it all
+    submitted through the github interface, and it is
+    probably better to have just text rather than the ipynb
+    format, which would have to be copied and pasted
+    wholesale, most likely - and could be confusing.
+    
+    also, we're thinking of changing the required exercises,
+    so the current selection identified in the template may
+    no longer be applicable.
+    
+    ping @reshama @lauramontemayor
+
+[33mcommit 469039bce7f512c02743543abf7358345d398cd3[m
+Merge: e2b9db9 19211bf
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed Apr 1 23:50:50 2015 -0400
+
+    Merge pull request #1 from ajschumacher/template
+    
+    add @reshama's prework template file
+
+[33mcommit 19211bffd46c45e2864113742ad43f013ce34cad[m
+Author: Aaron Schumacher <ajschumacher@gmail.com>
+Date:   Wed Apr 1 23:50:07 2015 -0400
+
+    add @reshama's prework template file
+
+[33mcommit e2b9db9104b8fef0bd1368162b655e9d816f4a7c[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:51:57 2014 -0600
+
+    Mentioned optional additional setup step
+
+[33mcommit aa7533a52dbfd904481390f84041edac7e71a77f[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:41:32 2014 -0600
+
+    More on Discourse in main guide
+
+[33mcommit 25638c187e97e724d22291756eec5caaf922e62e[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:37:10 2014 -0600
+
+    Test for statsmodels in installation guide
+
+[33mcommit ab845e4c103d44a49fe0cb4578e2b3d6fcab63a7[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:36:15 2014 -0600
+
+    Updated statsmodels in installation guide
+
+[33mcommit a33b5fe0084157437f483f7ffc1066f3d25eb6ed[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:31:44 2014 -0600
+
+    Added more space to exercises guide
+
+[33mcommit c73cdc8d89f15bdb8325b3c34d69e814ba378440[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 19:20:27 2014 -0600
+
+    Initial commit of exercises
+
+[33mcommit 5a395d8632def2d88d91d46aa54c16371a51560f[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 18:18:06 2014 -0600
+
+    Underlined only-first-9-chapters of the new Think Stats in stats guide
+
+[33mcommit b82f4f6c5997cbc63bce660849a79c31bce580df[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 18:11:32 2014 -0600
+
+    Updated main readme with the exercises
+
+[33mcommit f98fc9d004cadf4f1a4d34765d19667e635ccff1[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 18:10:44 2014 -0600
+
+    Updated stats guide to reflect exercises
+
+[33mcommit 0c69e2371e589239070544bdc3d81e8f030f92da[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 17:55:02 2014 -0600
+
+    Update README.md
+
+[33mcommit 063454e5c8ecef8729263cd898375e4bfd98fb73[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 17:54:33 2014 -0600
+
+    Update README.md
+
+[33mcommit b8885fa88cfa9d3a9925870ea05646547eb06b70[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Tue Dec 23 17:53:56 2014 -0600
+
+    Update README.md
+
+[33mcommit d8d26abb30e8334ae70b736ca74d2851f091faef[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Dec 19 23:26:43 2014 -0600
+
+    removed unnecessary information from installation guide
+
+[33mcommit b7c417cff3e09ba9ad8918f890591fc5ec2fd0e6[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Dec 19 23:25:28 2014 -0600
+
+    fixed typo in installation guide
+
+[33mcommit 2b856d5ed462e6b78051e5f8656c6e3b4cfa6d64[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Dec 19 23:24:36 2014 -0600
+
+    updated homebrew source and instructions for Yosemite
+
+[33mcommit 8a600d2999cb3497f7ad94ae95529bf981334c8b[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:43:29 2014 -0600
+
+    Update stats.md
+
+[33mcommit 8c88816fc8b474ecf18c4515e8f72c6f3a4a0349[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:42:55 2014 -0600
+
+    thinkstats v2 announce
+
+[33mcommit 1cd135d059cb2ade16b721770868423a41351618[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:41:01 2014 -0600
+
+    thinkstats v2 announce
+    
+    too many "convenient"s!
+
+[33mcommit ad968f4e8dc73c89cde179609d5a1309a9b9b6ca[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:40:27 2014 -0600
+
+    thinkstats v2 announce
+
+[33mcommit 3a84350a58f829f73fe11dc4cdc08ff80ce5ac6c[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:40:06 2014 -0600
+
+    thinkstats v2 announce
+
+[33mcommit 6ebfe9f336b41f88fde6a26fa2328aa1ad5cc411[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Thu Dec 18 22:39:38 2014 -0600
+
+    thinkstats v2 announce
+
+[33mcommit e488cc26b703145b6e69a00a38a4110788585814[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Tue Dec 2 14:27:34 2014 -0500
+
+    changed link to prework thread for cohort 2
+
+[33mcommit abe98ad9e21dbb347fa5c2397d3fbd8c9db855b9[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Mon Sep 8 09:49:44 2014 -0400
+
+    I thanked everyone
+
+[33mcommit 41bbac598f291f0c38fd16e8a6cfe1b4e4000c0a[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Wed Aug 27 12:30:34 2014 -0400
+
+    put the links at the end of alternative inst. guide into a list
+
+[33mcommit 8b7eede26b9145ba12b7632b11d6c3ddffec033a[m
+Merge: a63587d 07f90c8
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Wed Aug 27 12:28:30 2014 -0400
+
+    Merge branch 'master' of github.com:datascopeanalytics/metis-data-science-bootcamp-prework
+
+[33mcommit a63587d947030e9474b784b5a93c6728f108dc73[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Wed Aug 27 12:28:16 2014 -0400
+
+    added line breaks to separate links at the end of the alternative installation guide.
+
+[33mcommit 07f90c8dcca5f8f6b87773d6424795f52bfa9808[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Wed Aug 27 10:28:36 2014 -0400
+
+    Update README.md
+
+[33mcommit 73b3c509a872788fcea1cf4ce87bfe7c21f34730[m
+Author: Laurie Skelly <laurie.skelly@datascopeanalytics.com>
+Date:   Wed Aug 27 10:28:08 2014 -0400
+
+    Update README.md
+
+[33mcommit b5e93d4c6c53e9df0b4a66445d1806497f0f43f1[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Aug 22 14:50:33 2014 -0400
+
+    Fixed small typo in python guide
+
+[33mcommit 997d31091c3a8bc28ae02d00514463aa0198d144[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Aug 22 14:47:00 2014 -0400
+
+    removed the ~ surplus for the installation guide
+
+[33mcommit 640aac83beed66a2b45ac2f07e90735781c3c1fc[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Aug 22 14:30:51 2014 -0400
+
+    small markdown fix for xcode installation line
+
+[33mcommit f79aaa1d2f8e6a92d417e713ac316521b0be35dd[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Aug 22 14:29:47 2014 -0400
+
+    fixed brew and xcode lines
+
+[33mcommit 71d319cc0b52046663347e5574a9d1837da5193e[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Fri Aug 8 14:34:34 2014 -0500
+
+    Fixed small typo
+
+[33mcommit 3e342e68f3223455519c7e3fdf809c72c6d77e39[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 19:25:53 2014 -0500
+
+    Added suggestions on time management to stats prework
+
+[33mcommit 5503c26308f59074c8d70543d6b73f15af52c5f5[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:35:42 2014 -0500
+
+    reformatted stats guide
+
+[33mcommit 0009d34819c0bdd0008e6257fad6d2f2abc0f9f2[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:32:01 2014 -0500
+
+    Fixed typo in the python guide
+
+[33mcommit 8b68716c5039eb96f610277dcaeb66810b4c6319[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:30:23 2014 -0500
+
+    Made note headers smaller in python guide
+
+[33mcommit 2673c08559c5d9a9de9e7aee3f343f37033b16fd[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:29:16 2014 -0500
+
+    clarified emacs suggestion
+
+[33mcommit 7e493bb82030f4710140b55539829ebb5aa7ae84[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:27:05 2014 -0500
+
+    slightly expanded the intro paragraph
+
+[33mcommit 26b8b7439bd74be9680a06b3be355d596a04dc10[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:18:52 2014 -0500
+
+    Section headers switched to h2
+
+[33mcommit dca0c0fc4b89087df893a7f410f7dc9cb023dcbd[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:17:00 2014 -0500
+
+    markdown fix for emphasized chapter names
+
+[33mcommit 84e96e7d3ff33740dad897deed4f82c780e9e9f3[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:14:10 2014 -0500
+
+    Header fix for installation
+
+[33mcommit 96c67681c1c89e2b6dbd09e3138d49ffb2ed1ec0[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:11:48 2014 -0500
+
+    installation headers fixed
+
+[33mcommit c40a6f94f2486597391dba999343afe623c64c80[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:09:49 2014 -0500
+
+    Changed README subheaders to h3
+
+[33mcommit 499071e34879873ef0c72ba25d7fc93ca1eb7e97[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:08:44 2014 -0500
+
+    fixed Python time estimate
+
+[33mcommit 9e25573cfe637d51c067d436a6f996f6b6219cbf[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:07:59 2014 -0500
+
+    time estimates as subheaders
+
+[33mcommit d58ebde326aab2518acc9a8127f61704a055cc01[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:04:54 2014 -0500
+
+    fixed headings in README
+
+[33mcommit f1ec240ce30800df1d20917d7166fb2986cc84c3[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:03:20 2014 -0500
+
+    added all the prework md files
+
+[33mcommit 23e62488600e2b7d543f18d4ee8ae0c9ae591887[m
+Author: Irmak Sirer <irmak.sirer@gmail.com>
+Date:   Thu Aug 7 17:01:30 2014 -0500
+
+    Initial commit
